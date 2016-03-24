@@ -33,9 +33,9 @@
 
   + [List of Axes - Excel File](/meetings/apr_2016/DQC_0001_ListOfAxes.xlsx?raw=true)
 
-* #### DQC_0015 - Amendments to existing rule DQC_0015
+* #### DQC_0015 - Negative Values
 
-  + [Rule Form - Word Doc](/meetings/apr_2016/DQC_0015Amendments.docx?raw=true) 
+  + [Amendments to Existing Rule DQC_0015 - Word Doc](/meetings/apr_2016/DQC_0015Amendments.docx?raw=true) 
 
   + [List of Axes - Excel File](/meetings/apr_2016/DQC_0015_ListOfElements.xlsx?raw=true)
 
