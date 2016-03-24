@@ -10,9 +10,6 @@
 
 ### Extensions Work Stream 
 
-* [Discussion Paper - Word Doc](/meetings/apr_2016/ExtensionsDiscussionApr2016.docx?raw=true)
-* [Presentation - Powerpoint File](/meetings/apr_2016/ExtensionPresentationApr2016.pptx?raw=true)
-
 ### Break
 
 ### Extensions Work Stream 
