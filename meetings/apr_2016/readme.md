@@ -10,7 +10,9 @@
 
 ### Extensions Work Stream  
 
-  + [Element Selection and Extension Management](/meetings/apr_2016/20160406Extensions.pdf?raw=true)
+  + [Extension Management](/meetings/apr_2016/20160406Extensions.pdf?raw=true)  
+
+  + [Element Selection](/meetings/apr_2016/20160406ElementSelection.pdf?raw=true)
 
 ### Break
 
