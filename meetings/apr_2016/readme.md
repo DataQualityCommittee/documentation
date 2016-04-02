@@ -8,7 +8,9 @@
 
 ### Review of Approved DQC Rules on As Filed Data
 
-### Extensions Work Stream 
+### Extensions Work Stream  
+
+  + [Element Selection and Extension Management](/meetings/apr_2016/20160406Extensions.pdf?raw=true)
 
 ### Break
 
