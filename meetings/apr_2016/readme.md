@@ -28,6 +28,10 @@
 
   + [Guidance - Word Doc](/meetings/apr_2016/TaggingAxesMemberGuidance.docx?raw=true)
 
+* #### DQC_0013 - Negative Values with Dependence 
+
+  + [List of Elements V2 - Excel File](/meetings/apr_2016/DQC_0013_ListOfElements_V2.xlsx?raw=true)
+
 * #### DQC_0001 - Axis with Inappropriate Members 
 
   + [Rule Form - Word Doc](/meetings/apr_2016/DQC_0001.docx?raw=true) 
