@@ -9,7 +9,7 @@
 ### Contributed Rules Workstream / Approval for Public Review
 
   + DQC_0015
-    * [Amendments to Existing Rule - Word Doc] (/meetings/may_2016/AmendmentstoexistingruleDQC_0015.docx?raw=true)
+    * [Amendments to Existing Rule - Word Doc] (/meetings/may_2016/AmendmentstoexistingruleDQC_0015v2.docx?raw=true)
     * [List of Elements (new elements for approval) - Excel File] (/meetings/may_2016/DQC_0015_ListOfElements.xlsx?raw=true)
 	* [Member Exclusions - Excel File] (/meetings/may_2016/DQC_0015_MemberExclusions_V2.xlsx?raw=true)
 	
@@ -20,7 +20,7 @@
     * [List of Elements (new elements for approval) - Excel File] (/meetings/may_2016/DQC_0014_ListOfElements_V2.xlsx?raw=true)	
 
   + DQC_0005
-    * [Amendments to Existing Rule] (/meetings/may_2016/AmendmentstoexistingruleDQC_0005.docx?raw=true)
+    * [Amendments to Existing Rule] (/meetings/may_2016/AmendmentstoexistingruleDQC_0005v2.docx?raw=true)
 	
   + Public Review
     * [Summary of Contributed Rules for Public Review] (/meetings/may_2016/PublicExposureJune2016.docx?raw=true)
