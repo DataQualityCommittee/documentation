@@ -12,10 +12,10 @@
 
 ### Contributed Rules Workstream
 
-  + #### DQC_0015
-    * [List of Additional Elements - Excel File] (/meetings/june_2016/DQC_0015_ListOfElements.xlsx?raw=true)
-    * [Guidance on Tagging Other Than Temporary Impairment - Word Doc] (/meetings/june_2016/DQC_Guidance_Tagging_OtherThanTemporaryImpairment.docx?raw=true)
-    * [Guidance on Tagging Designated Hedges and Non-Designated Hedges - Word Doc] (/meetings/june_2016/DQC_Guidance_Tagging_DesignatedAndNonDesignatedHedges.docx?raw=true)
+#### DQC_0015 Negative Values
+* [List of Additional Elements - Excel File] (/meetings/june_2016/DQC_0015_ListOfElements.xlsx?raw=true)
+* [Guidance on Tagging Other Than Temporary Impairment - Word Doc] (/meetings/june_2016/DQC_Guidance_Tagging_OtherThanTemporaryImpairment.docx?raw=true)
+* [Guidance on Tagging Designated Hedges and Non-Designated Hedges - Word Doc] (/meetings/june_2016/DQC_Guidance_Tagging_DesignatedAndNonDesignatedHedges.docx?raw=true)
 
 
 ### Calendar/Future Meetings
