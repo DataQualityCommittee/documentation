@@ -2,7 +2,7 @@
 
 ### Introductions
 
-### Approval of Minutes 
+### Approval of Minutes
 
 ### Discussion Document Proposed Framework for Element Selection & Extension Use And Application Guidance for Balance Sheet & Income Statement
 
@@ -10,13 +10,13 @@
 
 ### Contributed Rules Workstream
 
-  + #### DQC_0015
-    * [List of Additional Elements - Excel File] (/meetings/jun_2016/DQC_0015_ListOfElements.xlsx?raw=true)
+#### DQC_0015 Negative Values
+* [List of Additional Elements - Excel File] (/meetings/jun_2016/DQC_0015_ListOfElements.xlsx?raw=true)
 
 ### Proposed Guidance
+* [Guidance on Tagging Other Than Temporary Impairment - Word Doc] (/meetings/jun_2016/DQC_Guidance_Tagging_OtherThanTemporaryImpairment.docx?raw=true)
+* [Guidance on Tagging Designated Hedges and Non-Designated Hedges - Word Doc] (/meetings/jun_2016/DQC_Guidance_Tagging_DesignatedAndNonDesignatedHedges.docx?raw=true)
 
-  + [Guidance on Tagging Other Than Temporary Impairment - Word Doc] (/meetings/jun_2016/DQC_Guidance_Tagging_OtherThanTemporaryImpairment.docx?raw=true)
-  + [Guidance on Tagging Designated Hedges and Non-Designated Hedges - Word Doc] (/meetings/jun_2016/DQC_Guidance_Tagging_DesignatedAndNonDesignatedHedges.docx?raw=true)
 
 ### Calendar/Future Meetings
 
