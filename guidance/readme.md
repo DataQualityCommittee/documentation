@@ -1,4 +1,4 @@
-  **[Download PDF] (PublicExposure2016-Q2-tagging.pdf?raw=true)**
+  **[Download PDF] (PublicExposure2016-Q2-tagging.pdf?raw=true) - [Comment online at https://xbrl.us/public-review] (https://xbrl.us/public-review)**
   
 # Guidance on Tagging Axis and Members Using the US GAAP Taxonomy<span style="font-size:small">  
 XBRL US Data Quality Committee</span>
