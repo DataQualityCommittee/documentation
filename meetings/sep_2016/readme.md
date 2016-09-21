@@ -14,15 +14,15 @@
   + [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy - Word Doc] (/meetings/sep_2016/GuidanceAxisMember.docx?raw=true)
 * **Rules for Public Review**
   + [DQC_0015 - Additional Elements] (/meetings/sep_2016/DQC_0015_V3_Public Review.xlsx?raw=true)
-  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0015_V3_Impact.xlsx?raw=true">Committee Members Only: Impact Analysis</a>
+  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0015_V3_Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
 * **Rules for Coding**
   + [DQC_0008 - Reversed Calculation] (/meetings/sep_2016/DQC_0008_Reversed_Calculation.docx?raw=true) 
-    || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0008Impact.xlsx?raw=true">Committee Members Only: Impact Analysis</a>
+    || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0008Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
   + [Guidance - Update Axis] (/meetings/sep_2016/GuidanceUpdateAxis.docx?raw=true) 
     <br />Committee Members Only: 
-    - [Impact Analysis - Range Axis] (https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/RangeAxisImpact.xlsx?raw=true) 
-    - [Impact Analysis - Equity Component Axis] (https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementEquityComponentsAxisImpact75.xlsx?raw=true)
-    - [Impact Analysis - Scenario Axis] (https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementScenarioAxisImpact76.xlsx?raw=true) 
+    - <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/RangeAxisImpact.xlsx?raw=true" target="_blank">Impact Analysis - Range Axis</a> 
+    - <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementEquityComponentsAxisImpact75.xlsx?raw=true" target="_blank">Impact Analysis - Equity Component Axis</a>
+    - <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementScenarioAxisImpact76.xlsx?raw=true" target="_blank">Impact Analysis - Scenario Axis</a> 
 
 ### Effect of "Approximately" on Element Selection
 
