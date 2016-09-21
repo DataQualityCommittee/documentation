@@ -3,8 +3,8 @@
 ### Introductions
 
 ### Element Selection and Use
-* Discussion Document
-* Revenue Analysis
+ * Discussion Document
+ * Revenue Analysis
 
 ### FASB Taxonomy Mapping Exercise
 
