@@ -15,7 +15,7 @@
   + [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy - Word Doc] (/meetings/sep_2016/GuidanceAxisMember.docx?raw=true)
 * **Rules for Public Review**
   + [DQC_0011 - Dimensional Equivalents] (/meetings/sep_2016/DQC_0011_Dimensional_Equivalents.docx?raw=true)
-  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0011_Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
+  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0011Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
   + [DQC_0015 - Additional Elements] (/meetings/sep_2016/DQC_0015_V3_Public Review.xlsx?raw=true)
   || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0015_V3_Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
   + [Guidance - Update Axis] (/meetings/sep_2016/GuidanceUpdateAxis.docx?raw=true) 
