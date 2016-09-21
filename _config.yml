@@ -9,59 +9,55 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: ""
+url: "https://dataqualitycommittee.github.io"
 enforce_ssl: ""
-baseurl: "/jekyllBasic"
+baseurl: "/documentation"
 
 # Title of website
-title: Project Name
+title: DQC Documentation
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: test1, test2, etc
+#keywords: 
 
 # Short description of your site
-desc: Sample Description
+desc: Agendas, draft documents &amp; completed public exposure comments
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
+avatar: "https://avatars2.githubusercontent.com/u/12073756?v=3&s=200"
 
 # List of links in the navigation bar
 nav-links:
-  Home: ""
-  About Me: "aboutme"
-  Contact: "contact"  
+  Browse this repository: "https://github.com/dataqualitycommittee/documentation"
+  Committee Rules &amp; Guidance: "https://xbrl.us/dqc"
+    
   
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
 profile:
-  name: Babji Chetty
-  email: Your-Email
-  facebook: your-fb-id
-  github: your-github-id 
-  twitter: your-twitter-id
-  linkedin: your-linkedin-id
-  stackoverflow: your-stackoverflow-id
-
+  name: XBRL US Center for Data Quality Commitee
+  email: dqc@xbrl.us
+  github: dataqualitycommittee 
+  
 # To display link in the footer section
-pretty-url: "bchetty.com"
+pretty-url: "xbrl.us/dqc"
 
 # --- Misc --- #
 
 # Your Disqus profile (shortname) settings
-disqus: "Your-Disqus-Id"
+#disqus: ""
 
 # Google Analytics Settings
-google_analytics: "Your-GA-Id"
+google_analytics: "UA-1591771-3"
 
 # Set these options as you need (For more information, check Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
-permalink: /blog/:title
+#permalink: /blog/:title
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
