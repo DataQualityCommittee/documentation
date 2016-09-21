@@ -36,9 +36,9 @@
 ### 2017 US GAAP Taxonomy
 
 ### Wrap up/Future Meetings and Topics
- 
 
 ______________________
+
 #### Open Action Items
 
 1. Review and disposition of best practices
