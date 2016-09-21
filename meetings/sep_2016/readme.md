@@ -1,6 +1,6 @@
 # Data Quality Committee Meeting - September 29, 2016
 
-### Introductions
+### Introductions (<a href="https://github.com/DataQualityCommittee/dqc-review/blob/master/meetings/sep_2016/20160929-DQCfiles.zip?raw=true" target="_blank">Committee-only files</a>)
 
 ### Element Selection and Use
  * Discussion Document
@@ -14,7 +14,7 @@
   + [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy - Word Doc] (/meetings/sep_2016/GuidanceAxisMember.docx?raw=true)
 * **Rules for Public Review**
   + [DQC_0015 - Additional Elements] (/meetings/sep_2016/DQC_0015_V3_Public Review.xlsx?raw=true)
-  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0015_V3_Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
+  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0015_V3_Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a> 
 * **Rules for Coding**
   + [DQC_0008 - Reversed Calculation] (/meetings/sep_2016/DQC_0008_Reversed_Calculation.docx?raw=true) 
     || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0008Impact.xlsx?raw=true" target="_blank">Committee Members Only: Impact Analysis</a>
