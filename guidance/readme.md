@@ -1,4 +1,6 @@
-  **[Download PDF] (PublicExposure2016-Q2-tagging.pdf?raw=true) - [Comment online at https://xbrl.us/public-review] (https://xbrl.us/public-review)**
+  **[Download PDF] (PublicExposure2016-Q2-tagging.pdf?raw=true)** 
+  
+  ####The public exposure period for this guidance ended August 31, 2016.
   
 # Guidance on Tagging Axis and Members Using the US GAAP Taxonomy<span style="font-size:small">  
 XBRL US Data Quality Committee</span>
