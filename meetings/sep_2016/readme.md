@@ -8,12 +8,21 @@
 
 ### FASB Taxonomy Mapping Exercise
 
-### Priorities
-
 ### Contributed Rules Workstream
-* Rules for Final Release
-* Rules for Public Review
-* Rules for Coding
+* **Rules for Final Release**
+  + [DQC Public Exposure comments received and responses - Word Doc] (/meetings/sep_2016/PublicReview20160831-Response.docx?raw=true)
+  + [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy - Word Doc] (/meetings/sep_2016/GuidanceAxisMember.docx?raw=true)
+* **Rules for Public Review**
+  + [DQC_0015 - Additional Elements] (/meetings/sep_2016/DQC_0015_V3_Public Review.xlsx?raw=true)
+  || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0015_V3_Impact.xlsx?raw=true">Committee Members Only: Impact Analysis</a>
+* **Rules for Coding**
+  + [DQC_0008 - Reversed Calculation] (/meetings/sep_2016/DQC_0008_Reversed_Calculation.docx?raw=true) 
+    || <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/DQC_0008Impact.xlsx?raw=true">Committee Members Only: Impact Analysis</a>
+  + [Guidance - Update Axis] (/meetings/sep_2016/GuidanceUpdateAxis.docx?raw=true) 
+    <br />Committee Members Only: 
+    - [Impact Analysis - Range Axis] (https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/RangeAxisImpact.xlsx?raw=true) 
+    - [Impact Analysis - Equity Component Axis] (https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementEquityComponentsAxisImpact75.xlsx?raw=true)
+    - [Impact Analysis - Scenario Axis] (https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementScenarioAxisImpact76.xlsx?raw=true) 
 
 ### Effect of "Approximately" on Element Selection
 
