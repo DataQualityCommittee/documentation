@@ -1,6 +1,7 @@
 # Data Quality Committee Meeting - September 29, 2016
 
-### Introductions (<a href="https://github.com/DataQualityCommittee/dqc-review/blob/master/meetings/sep_2016/20160929-DQCfiles.zip?raw=true" target="_blank">Committee-only files</a>)
+### Introductions 
+* <a href="https://github.com/DataQualityCommittee/dqc-review/blob/master/meetings/sep_2016/20160929-DQCfiles.zip?raw=true" target="_blank">Committee-only files</a>
 
 ### Element Selection and Use
  * Discussion Document
