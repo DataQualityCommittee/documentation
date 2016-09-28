@@ -14,7 +14,8 @@
   + [Public Comments/Resolution - Word Doc] (/meetings/sep_2016/PublicReview20160831-Response.docx?raw=true)
   + [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy - Word Doc] (/meetings/sep_2016/GuidanceAxisMember.docx?raw=true)
 * **Rules for Public Review (Q4)**
-  + [DQC_0001 (Update Guidance Axis/Member)] (/meetings/sep_2016/GuidanceUpdateAxis.docx?raw=true) 
+  + [DQC_0001 (Update Guidance Axis/Member)] (/meetings/sep_2016/GuidanceUpdateAxis.docx?raw=true)
+	<br />[DQC_0001 Rule Submission Form (Clarification for developers)] (/meetings/sep_2016/DQC_0001-20160929.docx?raw=true)
     <br />Committee Members Only: 
     - <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementScenarioAxisImpact76.xlsx?raw=true" target="_blank">Impact Analysis - Scenario Axis</a>
     - <a href="https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/sep_2016/StatementEquityComponentsAxisImpact75.xlsx?raw=true" target="_blank">Impact Analysis - Equity Component Axis</a> 
