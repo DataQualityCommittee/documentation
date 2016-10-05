@@ -589,7 +589,11 @@ This axis is used to indicate the currency that an instrument is denominated in 
 ### Position [Axis] <span style="font-size: small;">_(PositionAxis)_</span>
 
 This axis is used to indicate the long or short position taken on a security. The US GAAP taxonomy includes a Long [Member] and Short [Member] that can be used on this axis. The rule also permits two extensions Net Long Positions [Member] and Net Short Positions [Member]. These two extension elements can be used on this axis to represent the notional amounts when long and short positions are netted. The Long [Member] and Short [Member] represent positions before any netting occurs. For example, in the diagram below the company reports the notional amounts for purchases and sales and a third column of notional amounts that represent the net purchases and sales. All of the values in this table are reported using the notional line item with the various axes shown. In the final three columns, in red, are the notion values of the Long, Short and Net positions. In order to tag the column of Net Purchases and Sales, the extension members Net Long Positions [Member] and Net Short Positions [Member] are required. ([DQC_0001](https://xbrl.us/data-rule/dqc_0001/).63)  
+<<<<<<< HEAD
 ![DQC-guidance_image001](/wp-content/uploads/2016/05/DQC-guidance_image001.png)
+=======
+![DQC-guidance_image001](https://xbrl.us/wp-content/uploads/2016/05/DQC-guidance_image001.png)
+>>>>>>> refs/remotes/origin/master
 
 ### Measurement Frequency [Axis] <span style="font-size: small;">_(FairValueByMeasurementFrequencyAxis)_</span>
 
@@ -658,6 +662,7 @@ This axis is used to indicate if a derivative is designated as a hedging instrum
 <thead>
 
 <tr>
+<<<<<<< HEAD
 
 <th style="width:120px;text-align: left;" valign="bottom">**Element Name**</th>
 
@@ -699,6 +704,49 @@ This axis is used to indicate if a derivative is designated as a hedging instrum
 
 ### Products and Services [Axis] <span style="font-size: small;">_(ProductOrServiceAxis)_</span>
 
+=======
+
+<th style="width:120px;text-align: left;" valign="bottom">**Element Name**</th>
+
+<th style="width: 75px;text-align: left;" valign="bottom">**Label**</th>
+
+<th style="width: 75px;text-align: left;" valign="bottom">**Namespace**</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td style="word-break: break-word;
+       word-wrap: break-word;max-width: 120px;" valign="top">NotDesignatedAsHedgingInstrumentEconomicHedgesMember</td>
+
+<td valign="top">Not Designated As Hedging Instrument Economic Hedges [Member]</td>
+
+<td valign="top">extension</td>
+
+</tr>
+
+<tr>
+
+<td style="word-break: break-word;
+       word-wrap: break-word;max-width: 120px;" valign="top">NotDesignatedAsHedgingInstrumentTradingMember</td>
+
+<td valign="top">Not Designated As Hedging Instrument Trading [Member]</td>
+
+<td valign="top">extension</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+### Products and Services [Axis] <span style="font-size: small;">_(ProductOrServiceAxis)_</span>
+
+>>>>>>> refs/remotes/origin/master
 This axis is used to distinguish the details of products or services of the reporting entity. Given that products and services are generally specific to the reporting company, the members on this axis would be predominantly defined using extension elements. In the US GAAP taxonomy, a number of generic product and service members are defined for industries where the products are highly standardized such as, insurance or where the products are commodities such as, oil. In these cases, members from the US GAAP taxonomy can be used. The list of product and service members that can be used from the US GAAP taxonomy are those included on the following axes:
 
 *   _ProductOrServiceAxis_
@@ -1160,6 +1208,7 @@ This axis is used to reconcile the values reported for the operating segments an
 ### Defined Benefit Plan, Asset Categories [Axis] <span style="font-size: small;">_(DefinedBenefitPlanByPlanAssetCategoriesAxis)_</span>
 
 This axis is used to define the various categories of plan assets held by a defined benefit pension plan. This axis should only have members that represent assets of the plan. The members that appear on this axis can be extensions or members from within the US GAAP taxonomy that represent assets. Many company have incorrectly used members on this axis to define the actual pension plan type such as, US Pension Plans. Do not use members that represent various types of pension plans as types of plan assets. ([DQC_0001](https://xbrl.us/data-rule/dqc_0001/).71)
+<<<<<<< HEAD
 
 ### Award Date [Axis] <span style="font-size: small;">_(AwardDateAxis)_</span>
 
@@ -1191,6 +1240,39 @@ This axis is used to indicate that a value is reported subsequent to the balance
 
 <tr>
 
+=======
+
+### Award Date [Axis] <span style="font-size: small;">_(AwardDateAxis)_</span>
+
+This axis is used to distinguish equity-based compensation arrangements by the date or year of grant. Given that these are specific to the reporting company, the members on this axis must be defined as extension elements. ([DQC_0001](https://xbrl.us/data-rule/dqc_0001/).72)
+
+### Subsequent Event Type [Axis]  <span style="font-size: small;">_(SubsequentEventTypeAxis)_</span>
+
+This axis is used to indicate that a value is reported subsequent to the balance sheet. The member element Subsequent Event [Member] is the only member permitted on this axis. The FASB Taxonomy Implementation Guide on subsequent events states: "_Subsequent Event [Member]", the member already included in the Taxonomy, is intended to be used to qualify the reported facts so as to "flag" the information being reported as a subsequent event. There are no other member elements that are appropriate for use with "Subsequent Event Type [Axis]_". ([DQC_0001](https://xbrl.us/data-rule/dqc_0001/).74)  
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+<thead>
+
+<tr>
+
+<th align="left" valign="top">Element Name</th>
+
+<th align="left" valign="top">Label</th>
+
+<th align="left" valign="top">Namespace</th>
+
+<th align="left" valign="top">Documentation</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+>>>>>>> refs/remotes/origin/master
 <td style="word-break: break-word; word-wrap: break-word; text-align: left;" valign="top">SubsequentEventMember</td>
 
 <td valign="top">Subsequent Event [Member]</td>
@@ -1202,6 +1284,10 @@ This axis is used to indicate that a value is reported subsequent to the balance
 </tr>
 
 </tbody>
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/master
 </table>
 
 * * *
