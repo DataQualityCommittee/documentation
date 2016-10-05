@@ -1,4 +1,4 @@
-<div class="inset-right">[Download as PDF](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/guidance-tagging.pdf?raw=true)</div>
+<div class="inset-right">[Download as PDF](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/AxisMemberTagging.pdf?raw=true)</div>
 
 The XBRL US Data Quality Committee (DQC) has developed prescriptive guidance for issuers submitting XBRL files that contain financial statements to the Securities Exchange Commission (SEC). This guidance provides for uniform, consistent tagging of financial data using the US GAAP taxonomy to improve the usability of such data. The DQC has also developed rules that test XBRL files for conformity with the guidance. The guidance in this document provides links and references, where applicable, to the associated rules developed by the DQC. It is expected that issuers will comply with the guidance presented in this document when tagging their financial statements for submission to the SEC.
 
