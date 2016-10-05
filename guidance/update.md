@@ -12,6 +12,7 @@ In its Staff Observations, the SEC suggested filers utilize the pre-defined tabl
 This axis is used to disaggregate shareholders equity into all its possible components. This axis should only include sub categories of shareholders equity and partnership capital on this axis. This axis can only have those members identified as components of stockholder equity in the US GAAP taxonomy, the additional members identified below and extension members which may be specific to a given company that are not included in the taxonomy. ([DQC_0001](https://xbrl.us/data-rule/dqc_0001/).75)
 
 | Element Name | Label | Namespace | Documentation |
+| ----- | ----- | ----- | ----- |
 | WarrantsNotSettleableInCashMember | Warrants Not Settleable in Cash [Member] | us-gaap | Warrants not settleable in cash that are classified in shareholders' equity. |
 | ContingentConsiderationClassifiedAsEquityMember | Contingent Consideration Classified as Equity [Member] | us-gaap | Contingent consideration in a business combination that is classified in shareholders' equity. |
 | EquityIssuedInBusinessCombinationMember | Equity Issued in Business Combination [Member] | us-gaap | Equity issued by an entity in a business combination that is classified in shareholders' equity. |
