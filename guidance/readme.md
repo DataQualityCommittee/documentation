@@ -589,7 +589,7 @@ This axis is used to indicate the currency that an instrument is denominated in 
 ### Position [Axis] <span style="font-size: small;">_(PositionAxis)_</span>
 
 This axis is used to indicate the long or short position taken on a security. The US GAAP taxonomy includes a Long [Member] and Short [Member] that can be used on this axis. The rule also permits two extensions Net Long Positions [Member] and Net Short Positions [Member]. These two extension elements can be used on this axis to represent the notional amounts when long and short positions are netted. The Long [Member] and Short [Member] represent positions before any netting occurs. For example, in the diagram below the company reports the notional amounts for purchases and sales and a third column of notional amounts that represent the net purchases and sales. All of the values in this table are reported using the notional line item with the various axes shown. In the final three columns, in red, are the notion values of the Long, Short and Net positions. In order to tag the column of Net Purchases and Sales, the extension members Net Long Positions [Member] and Net Short Positions [Member] are required. ([DQC_0001](https://xbrl.us/data-rule/dqc_0001/).63)  
-![DQC-guidance_image001](/wp-content/uploads/2016/05/DQC-guidance_image001.png)
+![DQC-guidance_image001](https://xbrl.us/wp-content/uploads/2016/05/DQC-guidance_image001.png)
 
 ### Measurement Frequency [Axis] <span style="font-size: small;">_(FairValueByMeasurementFrequencyAxis)_</span>
 
