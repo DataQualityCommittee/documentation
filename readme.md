@@ -12,9 +12,13 @@
 ### DQC Meeting 2015-07-15 [Agenda] (/meetings/jul_2015/readme.md) - [Minutes] (https://xbrl.us/wp-content/uploads/2015/06/DQCminutes2015-0715.pdf)
 ### DQC Meeting 2015-06-11 [Minutes] (https://xbrl.us/wp-content/uploads/2015/06/DQCminutes20150611.pdf)
 
+# Guidance  
+
+### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy] (/guidance/readme.md) - approved 9/29/16
+
 # Guidance Public Exposure 
 
-### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy] (/guidance)
+### [Update Guidance - Tagging Axis and Members Using the US GAAP Taxonomy] (/guidance/update.md)
 
 # Public Exposure Comments
 
