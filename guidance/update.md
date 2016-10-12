@@ -1,4 +1,4 @@
-This update is available for public comment until December 6, 2016 - [https://xbrl.us/data-rule/guidance-tagging-v2](https://xbrl.us/data-rule/guidance-tagging-v2)
+This update is available for public comment until December 13, 2016 - [https://xbrl.us/data-rule/guidance-tagging-v2](https://xbrl.us/data-rule/guidance-tagging-v2)
 # Guidance Update - Tagging Axis and Members Using the US GAAP Taxonomy
 
 The XBRL US Data Quality Committee (DQC) has developed prescriptive guidance for issuers submitting XBRL files that contain financial statements to the Securities Exchange Commission (SEC). This guidance provides for uniform, consistent tagging of financial data using the US GAAP taxonomy to improve the usability of such data. The DQC has also developed rules that test XBRL files for conformity with the guidance. The additional guidance included in this document is being exposed for public review. Once approved for release, the Committee’s [Guidance on Tagging Axes and Members](/data-rule/guid-tag) will be updated to include this information.
