@@ -3,7 +3,7 @@
 ### Introductions
 
 ### Distribution of meeting materials 
-  * [login](https://trial.wdesk.com/auth/login/?next_url=%2Feditor%2Faccount%3Dtrue)
+  * [Sign In](https://trial.wdesk.com/auth/login/?next_url=%2Feditor%2Faccount%3Dtrue)
 
 ### Approval of Minutes
   * [September 29, 2016 Meeting Minutes](/meetings/nov_2016/MtgNotes09292016.docx?raw=true)
