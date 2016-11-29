@@ -1,9 +1,6 @@
 # Data Quality Committee Meeting - November 29, 2016
 
-### Introductions
-
-### Distribution of meeting materials 
-  * [Sign In](https://trial.wdesk.com/auth/login/?next_url=%2Feditor%2Faccount%3Dtrue)
+### Introductions 
 
 ### Approval of Minutes
   * [September 29, 2016 Meeting Minutes](/meetings/nov_2016/MtgNotes09292016.docx?raw=true)
