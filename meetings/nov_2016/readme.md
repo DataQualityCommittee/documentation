@@ -11,6 +11,7 @@
   * Application Guidance for Balance Sheet and Income Statement
 
 ### Entity Specific Disclosure Working Group 
+  * [Progress update](/meetings/nov_2016/ESDTF_DQC.pdf)
 
 ### Contributed Rules Workstream
 
