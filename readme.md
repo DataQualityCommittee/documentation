@@ -14,11 +14,7 @@
 
 # Guidance  
 
-### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy] (/guidance/readme.md) - approved 9/29/16
-
-# Guidance Public Exposure 
-
-### [Update Guidance - Tagging Axis and Members Using the US GAAP Taxonomy] (/guidance/update.md)
+### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy] (/guidance/readme.md) - approved 9/29/16, updated 11/29/16
 
 # Public Exposure Comments
 
