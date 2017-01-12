@@ -3,15 +3,13 @@
 ### October 2016
 ### Updated January 2017
 
-## Appropriate Modeling of Axis and Members
-
 [Download as PDF](AxisMemberTagging.pdf?raw=true)
 
 The XBRL US Data Quality Committee (DQC) has developed prescriptive guidance for issuers submitting XBRL files that contain financial statements to the Securities Exchange Commission (SEC). This guidance provides for uniform, consistent tagging of financial data using the US GAAP taxonomy to improve the usability of such data. The DQC has also developed rules that test XBRL files for conformity with the guidance. The guidance in this document provides links and references, where applicable, to the associated rules developed by the DQC. It is expected that issuers will comply with the guidance presented in this document when tagging their financial statements for submission to the SEC.
 
-##Appropriate Modeling of Axis and Members
-In its Staff Observations, the SEC suggested filers utilize the pre-defined table structures included in the US GAAP taxonomy. Certain axes in the US GAAP taxonomy should only have certain members, otherwise consumption of the data is adversely impacted because the resulting axis and member combinations are nonsensical, e.g., reporting a type of currency as a member on a debt instrument axis.  The following guidance provides limitations on the use of certain axis and member combinations that should be adhered to when tagging financial information using the US GAAP Taxonomy.
+## Appropriate Modeling of Axis and Members
 
+In its Staff Observations, the SEC suggested filers utilize the pre-defined table structures included in the US GAAP taxonomy. Certain axes in the US GAAP taxonomy should only have certain members, otherwise consumption of the data is adversely impacted because the resulting axis and member combinations are nonsensical, e.g., reporting a type of currency as a member on a debt instrument axis. The following guidance provides limitations on the use of certain axis and member combinations that should be adhered to when tagging financial information using the US GAAP Taxonomy.
 
 ### Default Dimension
 
@@ -207,10 +205,6 @@ This axis is used to indicate that a value is reported subsequent to the balance
 | Element Name | Label | Namespace | Documentation |
 | ----- | ----- | ----- | ----- |
 | SubsequentEventMember | Subsequent Event [Member] | extension | Identifies event that occurred after the balance sheet date but before financial statements are issued or available to be issued. |
-
-## Appropriate Modeling of Axis and Members
-
-In its Staff Observations, the SEC suggested filers utilize the pre-defined table structures included in the US GAAP taxonomy. Certain axes in the US GAAP taxonomy should only have certain members, otherwise consumption of the data is adversely impacted because the resulting axis and member combinations are nonsensical, e.g., reporting a type of currency as a member on a debt instrument axis. The following guidance provides limitations on the use of certain axis and member combinations that should be adhered to when tagging financial information using the US GAAP Taxonomy.
 
 ### Statement Equity Components [Axis] <span style="font-size: small; font-style: italic;">(StatementEquityComponentsAxis)</span>
 
