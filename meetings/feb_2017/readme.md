@@ -1,5 +1,5 @@
 # Data Quality Committee Meeting - February 15, 2017
-  * [materials for DQC Members & Observers (Contributed Rules Workstream.zip Rule Forms & Impact Analysis)*](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true)
+  * [materials for DQC Members & Observers (Contributed Rules Workstream .zip Rule Forms & Impact Analysis)*](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true)
 
 ### Introductions 
   
