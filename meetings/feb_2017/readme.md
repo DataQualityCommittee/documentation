@@ -1,5 +1,5 @@
 # Data Quality Committee Meeting - February 15, 2017
-  * [Contributed Rules .zip for DQC Members (requires GitHub login & permissions)](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true)
+  * [materials for DQC Members & Observers (Contributed Rules Workstream)*](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true)
 
 ### Introductions 
   
@@ -15,7 +15,6 @@
 | DQC Members & Observers | Meeting Attendees |
 | ----- | ----- |
 | [.zip Rule Forms & Impact Analysis*](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true) | [.zip Rule Forms](/documentation/blob/master/meetings/feb_2017/20170215-DQCruleforms.zip?raw=true) |
-\* requires GitHub login & repository permission
 
   * DQC_0043 - Incorrect Calculation Weights in Operating Cash Flows
   * DQC_0044 - Accrual Items used in Investing/Financing Cash flow Reconciliation - 44
@@ -39,3 +38,5 @@ ______________________
 3. Use of 2-way elements
 4. Service providers to test guidance on revenue for companies that were analyzed and compare results
 5. Data Consumer to provide feedback to XII Entity Specific Task Force
+
+\* requires GitHub login & repository permission
