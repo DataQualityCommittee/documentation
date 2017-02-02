@@ -1,5 +1,5 @@
 # Data Quality Committee Meeting - February 15, 2017
-  * [Contributed Rules .zip for DQC Members (requires GitHub login & permissions)](/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true)
+  * [Contributed Rules .zip for DQC Members (requires GitHub login & permissions)](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true)
 
 ### Introductions 
   
@@ -11,7 +11,7 @@
 
 ### Process for to Develop Guidance for Topical Areas
 
-### Contributed Rules Workstream [.zip for DQC Members & Observers (requires GitHub login & permissions)](/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true) || [.zip for attendees](/documentation/blob/master/meetings/feb_2017/20170215-DQCruleforms.zip?raw=true)
+### Contributed Rules Workstream [.zip for DQC Members & Observers (requires GitHub login & permissions)](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true) || [.zip for attendees](/documentation/blob/master/meetings/feb_2017/20170215-DQCruleforms.zip?raw=true)
   * DQC_0043 - Incorrect Calculation Weights in Operating Cash Flows
   * DQC_0044 - Accrual Items used in Investing/Financing Cash flow Reconciliation - 44
   * DQC_0045 - Movement of Operating, Investing, and Financing Cash flows
