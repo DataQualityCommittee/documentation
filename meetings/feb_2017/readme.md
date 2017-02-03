@@ -4,10 +4,9 @@
 ### Introductions 
   
 ### Approval of Minutes
-  * [November 29, 2016 Meeting Minutes](/meetings/feb_2017/MtgNotes09292016.docx?raw=true)
+  * November 29, 2016 Meeting Minutes
 
 ### Proposed Framework to Ensure Consistency and Comparability of XBRL Data 
-  * Document separately distributed to Committee (see email from A. Beers 1/24/17)
 
 ### Process for to Develop Guidance for Topical Areas
 
