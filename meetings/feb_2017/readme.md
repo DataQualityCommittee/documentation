@@ -4,7 +4,7 @@
 ### Introductions 
   
 ### Approval of Minutes
-  * [November 29, 2016 Meeting Minutes] (/documentation/blob/master/meetings/feb_2017/DQCMeetingNotes11292016.docx?raw=true)
+  * [November 29, 2016 Meeting Minutes] (DQCMeetingNotes11292016.docx?raw=true)
 
 ### Proposed Framework to Ensure Consistency and Comparability of XBRL Data 
 
@@ -13,7 +13,7 @@
 ### Contributed Rules Workstream 
 | DQC Members & Observers | Meeting Attendees |
 | ----- | ----- |
-| [.zip Rule Forms & Impact Analyses*](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true) | [.zip Rule Forms](/meetings/feb_2017/20170215-DQCruleforms.zip?raw=true) |
+| [.zip Rule Forms & Impact Analyses*](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/feb_2017/20170215-DQCfiles.zip?raw=true) | [.zip Rule Forms](20170215-DQCruleforms.zip?raw=true) |
 
   * DQC_0043 - Incorrect Calculation Weights in Operating Cash Flows
   * DQC_0044 - Accrual Items used in Investing/Financing Cash flow Reconciliation - 44
