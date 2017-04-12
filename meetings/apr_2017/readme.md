@@ -11,7 +11,7 @@
 ### Update on Compensation Review
 
 ### Proposed Framework to Enable Consistency and Comparability of XBRL Data
- * [Summary of comments received](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/apr_2017/frameworkcomments.docx?raw=true)
+ * [Summary of comments received](frameworkcomments.docx?raw=true)
 
 ### Guidance on Cashflow Statements 
 
@@ -22,7 +22,7 @@
 ### ESDTF Update 
 
 ### Preparation for meeting with SEC Staff
-  <!--- * [Agenda](https://github.com/dataqualitycommittee/dqc-review/blob/master/meetings/apr_2017/secagenda.docx?raw=true) --->
+  <!--- * [Agenda](secagenda.docx?raw=true) --->
   
 ### Wrap up / future meetings
 
