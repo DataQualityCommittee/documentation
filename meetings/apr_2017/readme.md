@@ -4,7 +4,7 @@
 ### Chairman Welcome 
   
 ### Approval of Minutes
-  * [February 15, 2017 Meeting Minutes] (DQCMeetingNotes02152017.docx?raw=true)
+  * [February 15, 2017 Meeting Minutes](DQCMeetingNotes02152017.docx?raw=true)
 
 ### Application Guidance for Balance Sheet/Income Statement and Analysis of Revenue 
 
