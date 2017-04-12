@@ -37,4 +37,4 @@ ______________________
 5. Data Consumer to provide feedback to XII Entity Specific Task Force
 6. Set up call with Data Consumers to get their feedback on XBRL US comment letter on inline XBRL
 
-\* requires GitHub login & repository permission
+<!---  \* requires GitHub login & repository permission --->
