@@ -2,7 +2,7 @@
 
 ### DQC Meeting 2017-04-19 [Agenda](/meetings/apr_2017/readme.md) 
 ### DQC Meeting 2017-02-15 [Agenda](/meetings/feb_2017/readme.md) 
-### DQC Meeting 2016-11-29 [Agenda](/meetings/nov_2016/readme.md) 
+### DQC Meeting 2016-11-29 [Agenda](/meetings/nov_2016/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2016/09/DQCminutes20161129.pdf)
 ### DQC Meeting 2016-09-29 [Agenda](/meetings/sep_2016/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2016/07/DQCminutes20160929.pdf) 
 ### DQC Meeting 2016-06-29 [Agenda](/meetings/jun_2016/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2016/01/DQCminutes20160629.pdf)
 ### DQC Meeting 2016-05-17 [Agenda](/meetings/may_2016/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2016/04/DQCminutes20160517.pdf)

@@ -4,7 +4,7 @@
 ### Introductions 
   
 ### Approval of Minutes
-  * [November 29, 2016 Meeting Minutes] (DQCMeetingNotes11292016.docx?raw=true)
+  * [November 29, 2016 Meeting Minutes](DQCMeetingNotes11292016.docx?raw=true)
 
 ### Proposed Framework to Ensure Consistency and Comparability of XBRL Data 
 
