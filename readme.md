@@ -1,5 +1,6 @@
 # Meeting Agendas
 
+### DQC Meeting 2017-06-23 [Agenda](/meetings/jun_2017/readme.md) 
 ### DQC Meeting 2017-04-19 [Agenda](/meetings/apr_2017/readme.md) 
 ### DQC Meeting 2017-02-15 [Agenda](/meetings/feb_2017/readme.md) 
 ### DQC Meeting 2016-11-29 [Agenda](/meetings/nov_2016/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2016/09/DQCminutes20161129.pdf)
