@@ -3,7 +3,7 @@
 ### Introductions 
   
 ### Approval of Minutes
-  <!--* [April 19, 2017 Meeting Minutes](DQCMeetingNotes04192017.docx?raw=true)-->
+  [April 19, 2017 Meeting Minutes](DQCMeetingMinutes04192017.docx?raw=true)
 
 ### Approval of Rules for Public Review
   + <a href="https://github.com/davidtauriello/dqc_us_rules/blob/next_q1_17/docs/DQC_US_0001/DQC_0001_ListOfAxes.xlsx?raw=true" target="_blank">DQC_0001 - Axis with Inappropriate Members</a>  
