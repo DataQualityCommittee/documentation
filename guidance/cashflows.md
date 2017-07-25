@@ -269,7 +269,7 @@ _DQC_0062_
 
 Rule [DQC_0062](https://xbrl.us/dqc_0062) identifies where no fact value is provided for any of the six change in cash flow elements listed above and a cash flow statement is reported by the entity. This rule is intended to identify those cases where the filer has reported a cash flow statement, but has not reported a value for the change in cash. This rule detects where an incorrect element, an inappropriate extension, an inappropriate dimension, or a missing value has been used to represent the change in cash for the period.
 
-### [Discontinued Operations](https://asc.fasb.org/xbrllinks&trid=2134478#SL153478)
+#### [Discontinued Operations](https://asc.fasb.org/xbrllinks&trid=2134478#SL153478)
 
 If a company has income from discontinued operations included in net income, the company must report the cash flow from investing and operating activities related to discontinued operations. Companies must use the elements listed below in either the cash flow statement or notes to the financial statements:
 
