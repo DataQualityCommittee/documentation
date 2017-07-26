@@ -2,20 +2,19 @@
 
 ## <a name="toc"></a>Table of Contents
 
-[230-10 Overview](#1)
-[230-10-45 - Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents](#2)
-[230-10-45 - Gross and Net Cash Flows](#3)
-[230-10-45 - Cash Flows from Investing Activities](#4)
-[230-10-45 - Cash Flows from Financing Activities](#5)
-[230-10-45 – Distributions Received from Equity Method Investees](#6)
-[230-10-45 - Reporting Operating, Investing, and Financing Activities](#7)
-[230-10-45 - Reconciliation of Net Income and Net Cash Flow from Operating Activities](#8)
-[230-10-50 - Noncash Investing and Financing Activities](#9)
-[205-20-50 - Disclosures Required for a Discontinued Operation Comprising a Component or Group of Components of an Entity](#10)
-[Dimensions used on the Cash Flow Statement](#11)
-[830-230-45 Foreign Currency Matters](#12)
+1.  [230-10 Overview](#1) 
+2.  [230-10-45 - Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents](#2) 
+3.  [230-10-45 - Gross and Net Cash Flows](#3) 
+4.  [230-10-45 - Cash Flows from Investing Activities](#4) 
+5.  [230-10-45 - Cash Flows from Financing Activities](#5) 
+6.  [230-10-45 – Distributions Received from Equity Method Investees](#6) 
+7.  [230-10-45 - Reporting Operating, Investing, and Financing Activities](#7) 
+8.  [230-10-45 - Reconciliation of Net Income and Net Cash Flow from Operating Activities](#8) 
+9.  [230-10-50 - Noncash Investing and Financing Activities](#9) 
+10. [205-20-50 - Disclosures Required for a Discontinued Operation Comprising a Component or Group of Components of an Entity](#10) 
+11. [Dimensions used on the Cash Flow Statement](#11) 
+12. [830-230-45 Foreign Currency Matters](#12)
 
-[Return to Table of Contents](#toc)
 ### <a name="1"></a>230-10 Overview
 
 This document is intended to provide guidance on structuring and tagging the cash flow statement using the US GAAP Financial Reporting Taxonomy. The cash flow statement in the US GAAP taxonomy is structured as a cash T account. All elements that represent cash receipts and cash inflows, are defined as debit items to mirror inflows into a cash T account. All elements that represent cash outflows are represented as credits. The US GAAP taxonomy is structured so that elements that represent cash inflows and outflows are clearly distinguished from accrual items, with label names that indicate that the element represents a cash flow. Terms such as _"payments to"_ or _"proceeds from"_ are examples of words that would be included in the label names of elements to be used in the statement of cash flows.
