@@ -15,12 +15,8 @@
 [Dimensions used on the Cash Flow Statement](#11)
 [830-230-45 Foreign Currency Matters](#12)
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="1"></a>230-10 Overview
+[Return to Table of Contents](#toc)
+### <a name="1"></a>230-10 Overview
 
 This document is intended to provide guidance on structuring and tagging the cash flow statement using the US GAAP Financial Reporting Taxonomy. The cash flow statement in the US GAAP taxonomy is structured as a cash T account. All elements that represent cash receipts and cash inflows, are defined as debit items to mirror inflows into a cash T account. All elements that represent cash outflows are represented as credits. The US GAAP taxonomy is structured so that elements that represent cash inflows and outflows are clearly distinguished from accrual items, with label names that indicate that the element represents a cash flow. Terms such as _"payments to"_ or _"proceeds from"_ are examples of words that would be included in the label names of elements to be used in the statement of cash flows.
 
@@ -36,12 +32,8 @@ First, the definition of the extended link role must contain the string "- State
 
 To distinguish the cash flow statement from a parenthetical disclosure associated with the cash flow statement, the string "parenthetical" must be included in the extended link role URI name as well as in the description of the extended link role, for example _"http:/abc.com/role/ConsolidatedStatementsOfCashFlowsParenthetical_".
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="2"></a>230-10-45 - Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+[Return to Table of Contents](#toc)
+### <a name="2"></a>230-10-45 - Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
 
 For companies that have not yet adopted ASU-2016-18, the cash flow statement should use a starting and ending balance that uses one of the following elements.
 
@@ -128,23 +120,15 @@ _e._ _CashEquivalentsAtCarryingValue_
 
 _f._ _CashAndDueFromBanks_
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="3"></a>230-10-45 - Gross and Net Cash Flows
+[Return to Table of Contents](#toc)
+### <a name="3"></a>230-10-45 - Gross and Net Cash Flows
 
 **Reporting Gross Items in the Cash Flow Statement**
 
 The US GAAP taxonomy provides for a number of net items in the cash flow statement such as _PaymentsForProceedsFromInvestments__,_ which mature in greater than 90 days. Under US GAAP, these items should generally not be used, as cash flows should be reported gross if the maturity is longer than 90 days. Instead of using these items, the filer should use the gross cash flow amount when available. Where the amount is a gross proceed and a gross payment in consecutive years, two separate elements should be used for the values. A single net element should not be used in these cases. When a filer splits a single line item into two components, the values will stay the same. It is not required that the filer report a value of zero for one line item. For example, Net Proceeds from issuance of long term debt has a value of 3,000 in period one and a value of -2,000 in period two. This is split into Gross Proceeds with a value of 3,000 in period one and Gross Repayments of Debt with a value of 2,000 in period two. There is no requirement to enter Gross Repayments of Debt with a value of 0 in period one and to enter Gross Proceeds with a value 0 in period two.
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="4"></a>230-10-45 - Cash Flows from Investing Activities
+[Return to Table of Contents](#toc)
+### <a name="4"></a>230-10-45 - Cash Flows from Investing Activities
 
 #### Movement Between Classes of Cash Flow Activity
 
@@ -154,12 +138,8 @@ Elements defined in the cash flow statement of the US GAAP taxonomy, are specifi
 
 DQC rule [DQC_0045](https://xbrl.us/dqc_0045) identifies where operating items are used as investing or financing items by identifying where these elements have been reclassified as investing or financing activities in the cash flow statement. The rule also identifies investing items reclassified as financing items and vice versa.
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="5"></a>230-10-45 - Cash Flows from Financing Activities
+[Return to Table of Contents](#toc)
+### <a name="5"></a>230-10-45 - Cash Flows from Financing Activities
 
 #### Proceeds From Issuance of Equity
 
@@ -195,12 +175,8 @@ More specific extensions should be linked via the extension linking mechanism to
 
 The amounts reported in the statement of cash flows are aggregate amounts for the reporting entity. If the amounts are specific to a subsidiary, but the amount is the same as the amount for the consolidated entity, then use the broad cash flow element. If the amount for all subsidiaries and a specific subsidiary are different, then this should be distinguished using a dimension.
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="6"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3521-108585) - Reporting Operating, Investing, and Financing Activities
+[Return to Table of Contents](#toc)
+### <a name="6"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3521-108585) - Reporting Operating, Investing, and Financing Activities
 
 Paragraph 45-24 of the FASB codification requires that cash flows in investing, financing and operating are reported. These may be comprised of cash from discontinued operations in the cash flow statement. For the purposes of this guidance, filers should always report movements in cash flows using the cash flow elements reflecting the reporting requirement. Those elements are as follows:
 
@@ -370,12 +346,8 @@ In those sections of the cash flow statement that represent direct cash flows, s
 
 Investing and financing items should only use cash flow items in the reconciliation. See rule [DQC_0044](https://xbrl.us/dqc_0044)
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="7"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3602-108585) - Reconciliation of Net Income and Net Cash Flow from Operating Activities
+[Return to Table of Contents](#toc)
+### <a name="7"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3602-108585) - Reconciliation of Net Income and Net Cash Flow from Operating Activities
 
 #### Selecting elements for the Reconciliation of Net Income
 
@@ -439,12 +411,8 @@ When creating an extension element in the operating cash flow section of the Cas
 
 Rule [DQC_0047](https://xbrl.us/dqc_0047) checks that calculation children of operating cash flows must have associated balance types.
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="8"></a>[**230-10-50**](https://asc.fasb.org/extlink&oid=98513485&loc=d3e4297-108586) - Interest and Income Tax Paid
+[Return to Table of Contents](#toc)
+### <a name="8"></a>[**230-10-50**](https://asc.fasb.org/extlink&oid=98513485&loc=d3e4297-108586) - Interest and Income Tax Paid
 
 In the supplemental cash flow section, the FASB Codification requires the disclosure of Interest paid net of any capitalized costs when an indirect cash flow statement is used. This represents the portion of aggregate interest paid categorized as an operating activity and is represented using the element _InterestPaidNet_. The element _InterestPaid_ includes capitalized costs reflecting both the operating and investing cash flows for the period. In XBRL filings the element _InterestPaid_ is often used in the supplemental section of the cash flow statement. This element should only be shown as a supplemental cash flow if _InterestPaidNet_is also disclosed.
 
@@ -454,12 +422,8 @@ When reporting income taxes paid, use the element _IncomeTaxesPaidNet_ when the 
 
 In the cash flow statement if the element _InterestPaid_ is included in supplemental cash flows, then the element _InterestPaidNet_ should also be disclosed. See Rule DQC_0065
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="9"></a>230-10-50 - Noncash Investing and Financing Activities
+[Return to Table of Contents](#toc)
+### <a name="9"></a>230-10-50 - Noncash Investing and Financing Activities
 
 In some cases, companies have reported the change in liabilities attributable to capital expenditures, as detailed below. This is not a required disclosure under US GAAP and differs from capital expenditures incurred but not yet paid. Companies should not use the element _CapitalExpendituresIncurredButNotYetPaid_ for this disclosure, as this element does not represent the change in liabilities attributable to capital expenditures.
 
@@ -562,12 +526,8 @@ If the filer breaks down the non cash amount into multiple acquisitions, the Bus
 
 If the filer does a number of immaterial acquisitions during the period and the value of these acquisitions represents all acquisitions for the period, then the member _SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember_ should not be associated with this value. This member should only be used when distinguishing material acquisitions from immaterial acquisitions.
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="10"></a>[205-20-50](https://asc.fasb.org/link&sourceid=SL51723644-108585&objid=99402803) - Disclosures Required for a Discontinued Operation Comprising a Component or Group of Components of an Entity
+[Return to Table of Contents](#toc)
+### <a name="10"></a>[205-20-50](https://asc.fasb.org/link&sourceid=SL51723644-108585&objid=99402803) - Disclosures Required for a Discontinued Operation Comprising a Component or Group of Components of an Entity
 
 **Discontinued Operations**
 
@@ -640,12 +600,8 @@ The following example shows where the company has separated the cash flow from c
 
 [**![Screen Shot 2017-05-11 at 6.09.07 PM.png](images/cashflows08.png?raw=true) **](https://www.sec.gov/Archives/edgar/data/1111711/000111171117000037/ni-20161231x10ka.htm) 
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="11"></a>Dimensions used on the Cash Flow Statement
+[Return to Table of Contents](#toc)
+### <a name="11"></a>Dimensions used on the Cash Flow Statement
 
 Dimensions will generally not be required on the cash flow statement. However, there are some cases where dimensions may be used.
 
@@ -665,12 +621,8 @@ Dimensions can also be used when reporting non cash activities, such as details 
 
 The operating activities axis, with the element _StatementOperatingActivitiesSegmentAxis,_ **MUST** not be used to separate continuing and discontinuing operations on the cash flow statement.
 
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
-
-<a name="12"></a>830-230-45 Foreign Currency Matters
+[Return to Table of Contents](#toc)
+### <a name="12"></a>830-230-45 Foreign Currency Matters
 
 #### Change in Cash Excluding Impact of Foreign Exchange
 
@@ -712,13 +664,6 @@ If a component of this element in the US GAAP taxonomy is included as a sibling 
 
 * * *
 
-<div id="ftn1">
-
 [[1]](#_ftnref1) The Entity Specific Disclosure Task Force of XBRL International is preparing best practices and recommendations on how to link extensions to standard elements in a base taxonomy. The DQC plans to leverage the work of that task force and will update this guidance with appropriate recommendations for the mechanism to link extensions.
 
-</div>
-
-### 
-
-<div class="inset-right" style="background:#cccccc;border 1px solid #444444;float:right;margin-left:10px;padding:6px;text-align:center;font-size:small;line-height:105%;">[Return to
-Table of Contents](#toc)</div>
+[Return to Table of Contents](#toc)
