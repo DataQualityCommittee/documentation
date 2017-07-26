@@ -120,15 +120,15 @@ _e._ _CashEquivalentsAtCarryingValue_
 
 _f._ _CashAndDueFromBanks_
 
-[Return to Table of Contents](#toc)
-### <a name="3"></a>230-10-45 - Gross and Net Cash Flows || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+[Return to Table of Contents](#toc) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+### <a name="3"></a>230-10-45 - Gross and Net Cash Flows
 
 **Reporting Gross Items in the Cash Flow Statement**
 
 The US GAAP taxonomy provides for a number of net items in the cash flow statement such as _PaymentsForProceedsFromInvestments__,_ which mature in greater than 90 days. Under US GAAP, these items should generally not be used, as cash flows should be reported gross if the maturity is longer than 90 days. Instead of using these items, the filer should use the gross cash flow amount when available. Where the amount is a gross proceed and a gross payment in consecutive years, two separate elements should be used for the values. A single net element should not be used in these cases. When a filer splits a single line item into two components, the values will stay the same. It is not required that the filer report a value of zero for one line item. For example, Net Proceeds from issuance of long term debt has a value of 3,000 in period one and a value of -2,000 in period two. This is split into Gross Proceeds with a value of 3,000 in period one and Gross Repayments of Debt with a value of 2,000 in period two. There is no requirement to enter Gross Repayments of Debt with a value of 0 in period one and to enter Gross Proceeds with a value 0 in period two.
 
-[Return to Table of Contents](#toc)
-### <a name="4"></a>230-10-45 - Cash Flows from Investing Activities || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+[Return to Table of Contents](#toc) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+### <a name="4"></a>230-10-45 - Cash Flows from Investing Activities
 
 #### Movement Between Classes of Cash Flow Activity
 
@@ -138,8 +138,8 @@ Elements defined in the cash flow statement of the US GAAP taxonomy, are specifi
 
 DQC rule [DQC_0045](https://xbrl.us/dqc_0045) identifies where operating items are used as investing or financing items by identifying where these elements have been reclassified as investing or financing activities in the cash flow statement. The rule also identifies investing items reclassified as financing items and vice versa.
 
-[Return to Table of Contents](#toc)
-### <a name="5"></a>230-10-45 - Cash Flows from Financing Activities || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+[Return to Table of Contents](#toc) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+### <a name="5"></a>230-10-45 - Cash Flows from Financing Activities
 
 #### Proceeds From Issuance of Equity
 
@@ -175,8 +175,8 @@ More specific extensions should be linked via the extension linking mechanism to
 
 The amounts reported in the statement of cash flows are aggregate amounts for the reporting entity. If the amounts are specific to a subsidiary, but the amount is the same as the amount for the consolidated entity, then use the broad cash flow element. If the amount for all subsidiaries and a specific subsidiary are different, then this should be distinguished using a dimension.
 
-[Return to Table of Contents](#toc)
-### <a name="6"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3521-108585) - Reporting Operating, Investing, and Financing Activities || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+[Return to Table of Contents](#toc) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+### <a name="6"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3521-108585) - Reporting Operating, Investing, and Financing Activities
 
 Paragraph 45-24 of the FASB codification requires that cash flows in investing, financing and operating are reported. These may be comprised of cash from discontinued operations in the cash flow statement. For the purposes of this guidance, filers should always report movements in cash flows using the cash flow elements reflecting the reporting requirement. Those elements are as follows:
 
@@ -346,8 +346,8 @@ In those sections of the cash flow statement that represent direct cash flows, s
 
 Investing and financing items should only use cash flow items in the reconciliation. See rule [DQC_0044](https://xbrl.us/dqc_0044)
 
-[Return to Table of Contents](#toc)
-### <a name="7"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3602-108585) - Reconciliation of Net Income and Net Cash Flow from Operating Activities || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+[Return to Table of Contents](#toc) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
+### <a name="7"></a>[230-10-45](https://asc.fasb.org/extlink&oid=99402803&loc=d3e3602-108585) - Reconciliation of Net Income and Net Cash Flow from Operating Activities
 
 #### Selecting elements for the Reconciliation of Net Income
 
@@ -666,4 +666,4 @@ If a component of this element in the US GAAP taxonomy is included as a sibling 
 
 [[1]](#_ftnref1) The Entity Specific Disclosure Task Force of XBRL International is preparing best practices and recommendations on how to link extensions to standard elements in a base taxonomy. The DQC plans to leverage the work of that task force and will update this guidance with appropriate recommendations for the mechanism to link extensions.
 
-[Return to Table of Contents](#toc)
+[Return to Table of Contents](#toc) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
