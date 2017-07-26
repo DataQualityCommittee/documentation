@@ -1,6 +1,5 @@
 # 230 Statement of Cash Flows Guidance 
-[Download as PDF](PublicExposure2017-Q3-cashflows.pdf?raw=true)
-[Comment on this Guidance until 8/15/17](https://xbrl.us/cashflows-comment)
+[Download as PDF](PublicExposure2017-Q3-cashflows.pdf?raw=true) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 8/15/17</a>
 
 ## <a name="toc"></a>Table of Contents
 
