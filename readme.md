@@ -19,7 +19,7 @@
 # Guidance  
 
 ### [Guidance on Statement of Cash Flows](/guidance/PublicExposure2017-Q3-cashflows.pdf) - public exposure comments due September 5, 2017
-### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/readme.md) - approved 9/29/16, updated 11/29/16
+### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
 
 # Public Exposure Comments
 ### [Q4 2016 Comments Received](/comments/PublicExposureCommentsReceived121416.pdf)
