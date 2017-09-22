@@ -18,8 +18,7 @@
 ### DQC Meeting 2015-06-11 [Minutes](https://xbrl.us/wp-content/uploads/2015/06/DQCminutes20150611.pdf)
 
 # Guidance  
-
-### [Guidance on Statement of Cash Flows](/guidance/PublicExposure2017-Q3-cashflows.pdf) - public exposure comments due September 5, 2017
+### [Guidance on Statement of Cash Flows](/guidance/PublicExposure2017-Q3-cashflows.pdf) - public exposure ended 9/5/17
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/readme.md) - approved 9/29/16, updated 11/29/16
 
 # Public Exposure Comments
