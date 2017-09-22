@@ -17,7 +17,8 @@
 ### DQC Meeting 2015-07-15 [Agenda](/meetings/jul_2015/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2015/06/DQCminutes2015-0715.pdf)
 ### DQC Meeting 2015-06-11 [Minutes](https://xbrl.us/wp-content/uploads/2015/06/DQCminutes20150611.pdf)
 
-# Guidance  
+# Guidance
+### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf)
 ### [Guidance on Statement of Cash Flows](/guidance/PublicExposure2017-Q3-cashflows.pdf) - public exposure ended 9/5/17
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/readme.md) - approved 9/29/16, updated 11/29/16
 
