@@ -6,8 +6,10 @@
   [June 23, 2017 Meeting Minutes](DQCMeetingMinutes06232017.docx?raw=true)
 
 ### Guiding Principles for Element Selection
+  + [Guiding Principles](/guidance/GuidingPrinciples.pdf?raw=true)
 
 ### Guidance/Rules on Cashflow Statements and Other Rules
+  + [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf)
 
 ### Guidance on Stock-Based Compensation
 
@@ -16,8 +18,6 @@
 ### Format of Rules
 
 ### FASB Update
-
-### Approval of Rules for Public Review
   + Efficiency and Effectiveness Study on US GAAP Taxonomy
   + Reference Project
   + 2018 Taxonomy 
