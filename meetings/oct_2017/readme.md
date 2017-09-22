@@ -3,10 +3,10 @@
 ### Chairman Welcome 
   
 ### Approval of Minutes
-  [June 23, 2017 Meeting Minutes](DQCMeetingMinutes06232017.docx?raw=true)
+  + [June 23, 2017 Meeting Minutes](DQCMeetingMinutes06232017.docx?raw=true)
 
 ### Guiding Principles for Element Selection
-  + [Guiding Principles](/guidance/GuidingPrinciples.pdf?raw=true)
+  + [Guiding Principles](/guidance/GuidingPrinciples.pdf)
 
 ### Guidance/Rules on Cashflow Statements and Other Rules
   + [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf)
