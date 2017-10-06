@@ -23,7 +23,7 @@
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/readme.md) - approved 9/29/16, updated 11/29/16
 
 # Public Exposure Comments
-### [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf)
-### [Q4 2016 Comments Received](/comments/PublicExposureCommentsReceived121416.pdf)
-### [Q3 2016 Comments Received](/comments/PublicExposureCommentsReceived83116.pdf)
-### [Q3 2015 Comments Received](/comments/PublicExposureCommentsReceived91415.pdf)
+### [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf) - Releases 4 & 5
+### [Q4 2016 Comments Received](/comments/PublicExposureCommentsReceived121416.pdf) - Release 3
+### [Q3 2016 Comments Received](/comments/PublicExposureCommentsReceived83116.pdf) - Release 2
+### [Q3 2015 Comments Received](/comments/PublicExposureCommentsReceived91415.pdf) - Release 1
