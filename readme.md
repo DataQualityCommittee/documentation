@@ -1,7 +1,11 @@
 # Meeting Agendas
 
 ### DQC Meeting 2017-10-04 [Agenda](/meetings/oct_2017/readme.md) 
+<<<<<<< HEAD
 ### DQC Meeting 2017-06-23 [Agenda](/meetings/jun_2017/readme.md) 
+=======
+### DQC Meeting 2017-06-23 [Agenda](/meetings/jun_2017/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2017/07/DQCminutes2017623.pdf) 
+>>>>>>> refs/remotes/origin/meeting-updates
 ### DQC Meeting 2017-04-19 [Agenda](/meetings/apr_2017/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2017/02/DQCminutes20170419.pdf) 
 ### DQC Meeting 2017-02-15 [Agenda](/meetings/feb_2017/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2017/02/DQCminutes20170215.pdf) 
 ### DQC Meeting 2016-11-29 [Agenda](/meetings/nov_2016/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2016/09/DQCminutes20161129.pdf)
@@ -23,7 +27,14 @@
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/readme.md) - approved 9/29/16, updated 11/29/16
 
 # Public Exposure Comments
+<<<<<<< HEAD
 ### [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf)
 ### [Q4 2016 Comments Received](/comments/PublicExposureCommentsReceived121416.pdf)
 ### [Q3 2016 Comments Received](/comments/PublicExposureCommentsReceived83116.pdf)
 ### [Q3 2015 Comments Received](/comments/PublicExposureCommentsReceived91415.pdf)
+=======
+### [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf) - Releases 4 & 5
+### [Q4 2016 Comments Received](/comments/PublicExposureCommentsReceived121416.pdf) - Release 3
+### [Q3 2016 Comments Received](/comments/PublicExposureCommentsReceived83116.pdf) - Release 2
+### [Q3 2015 Comments Received](/comments/PublicExposureCommentsReceived91415.pdf) - Release 1
+>>>>>>> refs/remotes/origin/meeting-updates
