@@ -1,6 +1,6 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Guidance on Tagging Axis and Members Using the US GAAP Taxonomy
-### October 2016
+### Approved October 2016
 ### Updated January 2017
 
 [Download as PDF](AxisMemberTagging.pdf?raw=true)

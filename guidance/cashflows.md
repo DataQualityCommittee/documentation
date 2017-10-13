@@ -1,7 +1,7 @@
 # 230 Statement of Cash Flows Guidance 
-[Download as PDF](PublicExposure2017-Q3-cashflows.pdf?raw=true) || <a href="https://xbrl.us/cashflows-comment" target="_blank">Comment on this Guidance until 9/5/17</a>
+## Approved 10/4/17
 
-## <a name="toc"></a>Table of Contents
+### <a name="toc"></a>Table of Contents
 
 1.  [230-10 Overview](#1) 
 2.  [230-10-45 - Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents](#2) 
