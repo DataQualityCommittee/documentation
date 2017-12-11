@@ -7,12 +7,12 @@
 
 ### Approval of Rules for Public Review
   *Proposal to add IFRS elements to DQC Rules*
-  + <a href="https://xbrl.us/dqc_0006" target="_blank">DQC0006 - DEI and Block Tag Date Contexts</a>
-  + <a href="https://xbrl.us/dqc_0008" target="_blank">DQC0008 - Reversed Calculations</a>
-  + <a href="https://xbrl.us/dqc_0018" target="_blank">DQC0018 - Deprecated Elements Used in Filing</a>
-  + <a href="https://xbrl.us/dqc_0033" target="_blank">DQC0033 – Document Period End Date Context</a>
-  + <a href="https://xbrl.us/dqc_0036" target="_blank">DQC0036 – Document Period End Date Context/Fact Value Check</a>
-  + <a href="https://xbrl.us/dqc_0041" target="_blank">DQC0041 – Axis with a Default Member that Differs from the Taxonomy</a>
+  + [DQC0006 - DEI and Block Tag Date Contexts](https://xbrl.us/dqc_0006)
+  + [DQC0008 - Reversed Calculations](https://xbrl.us/dqc_0008)
+  + [DQC0018 - Deprecated Elements Used in Filing](https://xbrl.us/dqc_0018)
+  + [DQC0033 – Document Period End Date Context](https://xbrl.us/dqc_0033)
+  + [DQC0036 – Document Period End Date Context/Fact Value Check](https://xbrl.us/dqc_0036)
+  + [DQC0041 – Axis with a Default Member that Differs from the Taxonomy](https://xbrl.us/dqc_0041)
 
 ### Status update on Stock Based Compensation
 
