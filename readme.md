@@ -19,9 +19,9 @@
 ### DQC Meeting 2015-06-11 [Minutes](https://xbrl.us/wp-content/uploads/2015/06/DQCminutes20150611.pdf)
 
 # Guidance
-### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf)
-### [Guidance on Statement of Cash Flows](/guidance/PublicExposure2017-Q3-cashflows.pdf) - public exposure ended 9/5/17
-### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/readme.md) - approved 9/29/16, updated 11/29/16
+### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
+### [Guidance on Statement of Cash Flows](/guidance/cashflows.md) - approved 10/4/17
+### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
 
 # Public Exposure Comments
 ### [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf) - Releases 4 & 5
