@@ -14,9 +14,12 @@
   + [DQC0036 – Document Period End Date Context/Fact Value Check](https://xbrl.us/dqc_0036)
   + [DQC0041 – Axis with a Default Member that Differs from the Taxonomy](https://xbrl.us/dqc_0041)
 
+
 ### Status Update on Stock Based Compensation
 
 ### Changes to Reference Implementation of DQC Rules 
+
+### Approval of Documentation of Rules for Developers 
 
 ### Future Topics for DQC to Address
 
