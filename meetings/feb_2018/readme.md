@@ -6,7 +6,7 @@
   + [December 18, 2017 Meeting Minutes](DRAFTDQCMeetingNotes12182017.docx?raw=true)
 
 ### Approval of Release of DQC Rules for Public Review March 15, 2018
-  + [Rules Document](#)
+  + [Rules Document](DQCv6RulesDocument.docx?raw=true)
 
 ### Rules for FASB Implementation Guide on Dimensional Modeling for Consolidated and Nonconsolidated Entities
   + [FASB  Guide](Modeling_for_Disclosures_of_Consolidated_and_Nonconsolidated_Entities_r496.pdf)
