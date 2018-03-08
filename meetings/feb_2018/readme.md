@@ -7,6 +7,7 @@
 
 ### Approval of Release of DQC Rules for Public Review March 15, 2018
   + [Rules Document](DQCv6RulesDocument.docx?raw=true)
+  + [Non-negatives list](Non_Neg_2018.xlsx?raw=true)
 
 ### Rules for FASB Implementation Guide on Dimensional Modeling for Consolidated and Nonconsolidated Entities
   + [FASB  Guide](Modeling_for_Disclosures_of_Consolidated_and_Nonconsolidated_Entities_r496.pdf)
