@@ -178,7 +178,7 @@ The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member is only intended 
 
 Example:  
 ![Example 4](images/revrec04.png?raw=true)  
-It may also be used for the cumulative adjustments to assets and liabilities that result from the adoption of the new standard, as shown below.
+It may also be used for the cumulative adjustments to assets and liabilities that result from the adoption of the new standard, as shown below.  
 ![Example 5](images/revrec05.png?raw=true)
 
 <hr>
