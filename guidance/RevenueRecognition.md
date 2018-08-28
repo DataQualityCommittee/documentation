@@ -29,17 +29,17 @@ In this case the filer would use the element for Revenue from Contract with Cust
 Note Disclosure: 
 
 	Product Revenue (All 606)
-		US							 90
-		International				 10
+		US					 90
+		International			 10
 		Total Product Revenue		100
 	Service Revenue (All 606)
-		US							 30
-		International				 20
+		US					 30
+		International			 20
 	Total Service Revenue			 50
 	XYZ Revenue (All 606)
-		US							 15
-		International				 15
-		Total XYZ Revenue			 30
+		US					 15
+		International			 15
+		Total XYZ Revenue		 30
 	Total Revenue (All 606)			180
 
 In the note disclosure for Disaggregated Revenue, the filer would use the element for Revenue from Contract with Customer with the ProductOrServiceAxis (with members for these three categories of revenue), together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate revenues, if additional disaggregation is disclosed.
@@ -51,7 +51,7 @@ In the following example the company breaks down revenue into the following cate
 	Product Revenue (All ASC 606)	100
 	Service Revenue (All ASC 606)	 50
 	XYZ Revenue (All non ASC 606)	 30
-	Total Revenue					180
+	Total Revenue				180
 
 In this example the non-ASC 606 revenue is one of the following:
 
@@ -62,17 +62,17 @@ The filer would use Revenue from Contract with Customer to disaggregate the two 
 Note Disclosure: 
 
 	Product Revenue (All 606)
-		US								 90
-		International					 10
+		US						 90
+		International				 10
 		Total Product Revenue			100
 	Service Revenue (All 606)
-		US								 30
-		International					 20
+		US						 30
+		International				 20
 		Total Service Revenue			 50
 	Operating Lease Revenue (non All 606)
-		US								 15
-		International					 15
-		Total Operating Lease Revenue	 30
+		US						 15
+		International				 15
+		Total Operating Lease Revenue	 	30
 	Total Revenue (All 606)				180
 
 In the note disclosure for Disaggregated Revenue, the filer would use the element for Revenue from Contract with Customer with the ProductOrServiceAxis (with ProductMember and ServiceMember), together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate ASC 606 revenues, if additional disaggregation is disclosed. 
@@ -88,21 +88,21 @@ In the following example, the company breaks down revenue into the following cat
 	Product Revenue (All ASC 606)	100
 	Service Revenue (All ASC 606)	 50
 	XYZ Revenue (Partly ASC 606)	 30
-	Total Revenue					180
+	Total Revenue				180
 
 The element representing "XYZ Revenue" includes non-ASC 606 revenue. A filer in this situation would use the ProductOrServiceAxis to disaggregate the Revenues line item on the income statement (The element for Revenue from Contract with Customer would not be used). The element for Revenue from Contract with Customer however would have to appear in the notes to the financials.
 
 Note Disclosure: 
 
 	Revenue from Contract with Customers (All ASC 606)
-		US											130
-		International								 30
+		US								130
+		International						 30
 		Total Revenue from Contract with Customers	160
 	Non-ASC 606 Revenue (non-ASC 606)
-		US											 10
-		International								 10
-		Total Non-ASC 606 Revenue					 20
-	Total Revenue (All 606)							180
+		US								 10
+		International						 10
+		Total Non-ASC 606 Revenue				 20
+	Total Revenue (All 606)						180
 
 In this scenario, the filer would use Revenue from Contracts with Customers with the StatementGeographicalAxis to disaggregate revenue from contracts with customers. 
 
