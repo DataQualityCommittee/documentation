@@ -1,7 +1,7 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Revenue Guidance
-### Draft for Committee Review
-### June 2018
+### Draft for Public Review
+### July 2018
 
 This guidance is a DQC (or XBRL US) supplement to the FASB Taxonomy implementation guide and is designed to address problems and inconsistencies that have been identified when companies adopt the revenue standard under Accounting Standards Codification® (ASC) Topic 606, including tagging of disclosures that are not required. 
 
