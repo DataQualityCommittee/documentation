@@ -125,7 +125,7 @@ The aggregate total of non-interest income should use line item (NoninterestInco
 
 Total revenues for the bank including non-interest income should use the Revenues element on the income statement.
 
-Note Disclosure:
+Note Disclosure:  
 ![Note Disclosure 1](images/revrec02.png?raw=true)
 
 In this scenario, the filer would use InterestIncomeExpenseNet  to tag the net interest income.
@@ -176,11 +176,12 @@ This structure indicates that these revenue sources are a component of sales and
 
 The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member is only intended to be used by filers who have adopted the revenue standard using the modified retrospective approach.  Typically, it will be used in a disclosure that reconciles the current period values as measured under previous guidance to the revenues measured under ASC 606.  
 
-Example:
-![Example 4](images/revrec04.png?raw=true)
+Example:  
+![Example 4](images/revrec04.png?raw=true)  
 It may also be used for the cumulative adjustments to assets and liabilities that result from the adoption of the new standard, as shown below.
 ![Example 5](images/revrec05.png?raw=true)
 
 <hr>
-1.  Use the US GAAP Taxonomy name for this element defined in the  2019 Taxonomy. This element was not included in the 2018 taxonomy.
-1.  Assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the entity from a customer (for example, sales, use, value added, and some excise taxes).
+
+1.  Use the US GAAP Taxonomy name for this element defined in the  2019 Taxonomy. This element was not included in the 2018 taxonomy.  
+2.  Assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the entity from a customer (for example, sales, use, value added, and some excise taxes).
