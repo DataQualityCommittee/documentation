@@ -15,7 +15,7 @@ The values on the income statement and balance sheet should not use the member C
 ### Disaggregated Revenue
 The Revenues line item element can continue to be used on the income statement for filers who have reported revenue under ASC 606 and other standards. It is preferable to use the more specific revenue from contracts with customers when all income is ASC 606 related revenue.
 
-* Scenario 1: *
+**Scenario 1:**
 
 In the situation described below the element for Revenue from Contract with Customer can be used for the aggregate revenue.
 
@@ -29,7 +29,7 @@ In this case the filer would use the element for Revenue from Contract with Cust
 Note Disclosure: 
 
 	Product Revenue (All 606)
-		US					 	  	 90
+		US							 90
 		International				 10
 		Total Product Revenue		100
 	Service Revenue (All 606)
@@ -39,12 +39,12 @@ Note Disclosure:
 	XYZ Revenue (All 606)
 		US							 15
 		International				 15
-		Total XYZ Revenue		 	 30
-	Total Revenue (All 606)		 	180
+		Total XYZ Revenue			 30
+	Total Revenue (All 606)			180
 
 In the note disclosure for Disaggregated Revenue, the filer would use the element for Revenue from Contract with Customer with the ProductOrServiceAxis (with members for these three categories of revenue), together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate revenues, if additional disaggregation is disclosed.
 
-* Scenario 2: *
+**Scenario 2:**
 
 In the following example the company breaks down revenue into the following categories which aggregate to total revenue.
 
@@ -62,11 +62,11 @@ The filer would use Revenue from Contract with Customer to disaggregate the two 
 Note Disclosure: 
 
 	Product Revenue (All 606)
-		US					 	  		 90
+		US								 90
 		International					 10
 		Total Product Revenue			100
 	Service Revenue (All 606)
-		US						  		 30
+		US								 30
 		International					 20
 		Total Service Revenue			 50
 	Operating Lease Revenue (non All 606)
@@ -81,7 +81,7 @@ If the non-ASC 606 revenue is also included in the note disclosure for Disaggreg
 
 The Revenues element would be used for the total revenue (ASC 606 and non-ASC 606 revenue). 
 
-* Scenario 3: *
+**Scenario 3:**
 
 In the following example, the company breaks down revenue into the following categories which aggregate to total revenue.
 
@@ -95,7 +95,7 @@ The element representing "XYZ Revenue" includes non-ASC 606 revenue. A filer in 
 Note Disclosure: 
 
 	Revenue from Contract with Customers (All ASC 606)
-		US					 	 					130
+		US											130
 		International								 30
 		Total Revenue from Contract with Customers	160
 	Non-ASC 606 Revenue (non-ASC 606)
@@ -112,7 +112,7 @@ The Revenues element would be used for the total revenue (ASC 606 and non-ASC 60
 
 If the revenue standard is adopted using modified retrospective approach, the same approach will be applied to the current period values. The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member would be used to tag what the current period would have been under prior guidance. 
 
-* Scenario 4: *
+**Scenario 4:**
 #### Revenue for Financial Institutions
 Typically banks reporting of revenues is broken down between interest-based revenue and non-interest revenue.  This means the aggregate revenues cannot be cleanly disaggregated into revenue from contracts with customers.
 
