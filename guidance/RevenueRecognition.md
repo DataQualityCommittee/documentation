@@ -108,13 +108,11 @@ In this scenario, the filer would use Revenue from Contracts with Customers with
 
 The filer would use an extension element: Revenue not from Contract with Customer<sup>1</sup> (RevenueNotFromContractWithCustomer) with the StatementGeographicalAxis to disaggregate revenues not from contract with customers. 
 
-The Revenues element would be used for the total revenue (ASC 606 and non-ASC 606 revenue). 
-
-If the revenue standard is adopted using modified retrospective approach, the same approach will be applied to the current period values. The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member would be used to tag what the current period would have been under prior guidance. 
+The Revenues element would be used for the total revenue (ASC 606 and non-ASC 606 revenue).  
 
 **Scenario 4:**
 #### Revenue for Financial Institutions
-Typically banks reporting of revenues is broken down between interest-based revenue and non-interest revenue.  This means the aggregate revenues cannot be cleanly disaggregated into revenue from contracts with customers.
+Typically, a financial institution's reporting of revenues is broken down between interest-based revenue and non-interest revenue.  This means the aggregate revenues cannot be cleanly disaggregated into revenue from contracts with customers.
 
 The following example highlights this complexity:
 ![Example 2](images/revrec01.png?raw=true)
@@ -128,13 +126,11 @@ Total revenues for the bank including non-interest income should use the Revenue
 Note Disclosure:  
 ![Note Disclosure 1](images/revrec02.png?raw=true)
 
-In this scenario, the filer would use InterestIncomeExpenseNet  to tag the net interest income.
+In this scenario, the filer would use InterestIncomeExpenseNet  to tag the net interest income. For non-interest income line items, the filer would use the revenue line items used on the income statement.  
 
-For non-interest income, the filer would use the revenue line items used on the income statement with the appropriate dimension (such as StatementBusinessSegmentsAxis) to disaggregate revenues from contracts with customers. To disaggregate Revenue not from Contract with Customer, the same line items used on the income statement with the appropriate dimension (such as StatementBusinessSegmentsAxis) would be used in the notes to disaggregate revenue not from contracts with customers. 
- 
 To identify which components, represent Revenue from contract with customer and Revenues Not from Contract with Customers the filer should also provide two calculation relationships:
-1.  Standard element_Revenue from Contract with Customer with calculation children of all revenue from contract with customer (items underlined in 'green')
-1.  extension_element Revenue not f from Contract with Customer with calculation children of all revenue not from contract with customer (items underlined in 'red')
+1.  Standard element Revenue from Contract with Customer with calculation children of all revenue from contract with customer (items underlined in 'green')
+1.  Extension element Revenue not from Contract with Customer with calculation children of all revenue not from contract with customer (items underlined in 'red')
 
 The calculation children appear in both the calculation link and presentation link, but the calculation parent is in the calculation link only (not in the presentation link as there is no value entered).
 
@@ -174,12 +170,10 @@ This structure indicates that these revenue sources are a component of sales and
 
 ## Revenue Before Topic 606
 
-The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member is only intended to be used by filers who have adopted the revenue standard using the modified retrospective approach.  Typically, it will be used in a disclosure that reconciles the current period values as measured under previous guidance to the revenues measured under ASC 606.  
+The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member is only intended to be used by filers who have adopted the revenue standard using the modified retrospective approach.  Typically, it will be used in a disclosure that shows the current period values as measured under previous guidance to the revenues measured under ASC 606.  
 
 Example:  
-![Example 4](images/revrec04.png?raw=true)  
-It may also be used for the cumulative adjustments to assets and liabilities that result from the adoption of the new standard, as shown below.  
-![Example 5](images/revrec05.png?raw=true)
+![Example 4](images/revrec04.png?raw=true)
 
 <hr>
 
