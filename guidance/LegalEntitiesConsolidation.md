@@ -1,7 +1,7 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Dimensional Modeling Guidance – Legal Entities & Consolidation Guidance
-### Draft for Committee Review
-### June 2018
+### Draft for Public Review
+### July 2018
 
 ## Overview
 This document is intended to add additional explanation to the FASB implementation guide on Dimensional Modeling for Disclosures of Consolidated and Nonconsolidated Entities. In addition this document identifies DQC rules to ensure that that the practices defined in the FASB implementation guide are implemented.
