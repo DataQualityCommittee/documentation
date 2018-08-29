@@ -3,6 +3,7 @@
 ### Introductions 
   
 ### Approval of Minutes
+
   + [April 25, 2018 Meeting Minutes](DRAFTDQCMeetingNotes04252018.docx?raw=true)
 
 ### Review and Approval of Release of DQC Rules and Guidance Version 7 for Public Review 
