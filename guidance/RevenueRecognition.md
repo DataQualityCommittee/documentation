@@ -146,9 +146,9 @@ If a company has no assessed taxes, it is recommended that the company use the r
 ## Revenue Remaining Performance Obligation
 Companies are now required to report their remaining performance obligation and the periods when this revenue will be recognized.  The Taxonomy has a new axis to report this information. When reporting the obligation, the following should be done.
 
-1.  For every fact value reported for an obligation, a corresponding value needs to be tagged for the element `RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod`.
+1.  For every fact value reported for an obligation, a corresponding value needs to be tagged for the element `RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1`.
 1.  When reporting the element `RevenueRemainingPerformanceObligation` in the default, the company filing can import the standard FASB template located at: [http://xbrl.fasb.org/us-gaap/2018/dis/us-gaap-dis-rcctmp03-def-2018-01-31.xml](http://xbrl.fasb.org/us-gaap/2018/dis/us-gaap-dis-rcctmp03-def-2018-01-31.xml) or create an equivalent in their filing.
-1.  If reporting a thereafter amount, the value of the element RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod must be reported with a nil value.
+1.  If reporting a thereafter amount, the value of the element RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1 must be reported with a nil value.
 
 ## Selection of Elements
 If an element used in a filing is contained in section 606000 of the Taxonomy, then no elements from section 440000 can be used in the filing, except for the following exceptions:
