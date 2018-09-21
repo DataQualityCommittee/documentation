@@ -69,11 +69,11 @@ Note Disclosure:
 		US					 30
 		International				 20
 		Total Service Revenue			 50
-	Operating Lease Revenue (non All 606)
+	Operating Lease Revenue (All non 606)
 		US					 15
 		International				 15
 		Total Operating Lease Revenue	 	 30
-	Total Revenue (All 606)				180
+	Total Revenue 					180
 
 In the note disclosure for Disaggregated Revenue, the filer would use the element for Revenue from Contract with Customer with the ProductOrServiceAxis (with ProductMember and ServiceMember), together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate ASC 606 revenues, if additional disaggregation is disclosed. 
 
@@ -102,7 +102,7 @@ Note Disclosure:
 		US							 10
 		International						 10
 		Total Non-ASC 606 Revenue				 20
-	Total Revenue (All 606)						180
+	Total Revenue 							180
 
 In this scenario, the filer would use Revenue from Contracts with Customers with the StatementGeographicalAxis to disaggregate revenue from contracts with customers. 
 
@@ -146,9 +146,9 @@ If a company has no assessed taxes, it is recommended that the company use the r
 ## Revenue Remaining Performance Obligation
 Companies are now required to report their remaining performance obligation and the periods when this revenue will be recognized.  The Taxonomy has a new axis to report this information. When reporting the obligation, the following should be done.
 
-1.  For every fact value reported for an obligation, a corresponding value needs to be tagged for the element `RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod`.
+1.  For every fact value reported for an obligation, a corresponding value needs to be tagged for the element `RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1`.
 1.  When reporting the element `RevenueRemainingPerformanceObligation` in the default, the company filing can import the standard FASB template located at: [http://xbrl.fasb.org/us-gaap/2018/dis/us-gaap-dis-rcctmp03-def-2018-01-31.xml](http://xbrl.fasb.org/us-gaap/2018/dis/us-gaap-dis-rcctmp03-def-2018-01-31.xml) or create an equivalent in their filing.
-1.  If reporting a thereafter amount, the value of the element RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod must be reported with a nil value.
+1.  If reporting a thereafter amount, the value of the element RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1 must be reported with a nil value.
 
 ## Selection of Elements
 If an element used in a filing is contained in section 606000 of the Taxonomy, then no elements from section 440000 can be used in the filing, except for the following exceptions:
