@@ -69,11 +69,11 @@ Note Disclosure:
 		US					 30
 		International				 20
 		Total Service Revenue			 50
-	Operating Lease Revenue (non All 606)
+	Operating Lease Revenue (All non 606)
 		US					 15
 		International				 15
 		Total Operating Lease Revenue	 	 30
-	Total Revenue (All 606)				180
+	Total Revenue 					180
 
 In the note disclosure for Disaggregated Revenue, the filer would use the element for Revenue from Contract with Customer with the ProductOrServiceAxis (with ProductMember and ServiceMember), together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate ASC 606 revenues, if additional disaggregation is disclosed. 
 
@@ -102,7 +102,7 @@ Note Disclosure:
 		US							 10
 		International						 10
 		Total Non-ASC 606 Revenue				 20
-	Total Revenue (All 606)						180
+	Total Revenue 							180
 
 In this scenario, the filer would use Revenue from Contracts with Customers with the StatementGeographicalAxis to disaggregate revenue from contracts with customers. 
 
