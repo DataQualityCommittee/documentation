@@ -1,7 +1,8 @@
 # Meeting Agendas
 
-### DQC Meeting 2018-06-27 [Agenda](/meetings/jun_2018/readme.md)
-### DQC Meeting 2018-04-25 [Agenda](/meetings/apr_2018/readme.md) - [Minutes (draft)](/meetings/jun_2018/DRAFTDQCMeetingNotes04252018.docx?raw=true)
+### DQC Meeting 2018-10-10 [Agenda](/meetings/oct_2018/readme.md) 
+### DQC Meeting 2018-06-27 [Agenda](/meetings/jun_2018/readme.md) - [Minutes (draft)](/meetings/oct_2018/DRAFTDQCMeetingNotes06272018.docx?raw=true)
+### DQC Meeting 2018-04-25 [Agenda](/meetings/apr_2018/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2018/01/DQCMeetingNotes03142018.pdf)
 ### DQC Meeting 2018-03-14 [Agenda](/meetings/mar_2018/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2018/01/DQCMeetingNotes03142018.pdf)
 ### DQC Meeting 2017-12-18 [Agenda](/meetings/dec_2017/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2017/10/DQCMeetingNotes12182017.pdf)
 ### DQC Meeting 2017-10-04 [Agenda](/meetings/oct_2017/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2017/07/DQCMeetingNotes10042017.pdf)
@@ -22,12 +23,10 @@
 ### DQC Meeting 2015-06-11 [Minutes](https://xbrl.us/wp-content/uploads/2015/06/DQCminutes20150611.pdf)
 
 # Guidance
+### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) - **public comment July-September, 2018**
+### [Revenue Guidance](/guidance/RevenueRecognition.md) - **public comment July-September, 2018** 
+
 ### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
 ### [Guidance on Statement of Cash Flows](/guidance/cashflows.md) - approved 10/4/17
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
-
-# Public Exposure Comments
-### [Q3 2017 Comments Received](/comments/PublicExposureCommentsReceived90617.pdf) - Releases 4 & 5
-### [Q4 2016 Comments Received](/comments/PublicExposureCommentsReceived121416.pdf) - Release 3
-### [Q3 2016 Comments Received](/comments/PublicExposureCommentsReceived83116.pdf) - Release 2
-### [Q3 2015 Comments Received](/comments/PublicExposureCommentsReceived91415.pdf) - Release 1 
+### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
