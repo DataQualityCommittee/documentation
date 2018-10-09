@@ -106,7 +106,7 @@ Note Disclosure:
 
 In this scenario, the filer would use Revenue from Contracts with Customers with the StatementGeographicalAxis to disaggregate revenue from contracts with customers. 
 
-The filer would use an extension element: Revenue not from Contract with Customer<a href="#1"><sup>1</sup></a> (RevenueNotFromContractWithCustomer) with the StatementGeographicalAxis to disaggregate revenues not from contract with customers. 
+The filer would use an extension element: Revenue not from Contract with Customer<sup>[1](#1)</sup> (RevenueNotFromContractWithCustomer) with the StatementGeographicalAxis to disaggregate revenues not from contract with customers. 
 
 The Revenues element would be used for the total revenue (ASC 606 and non-ASC 606 revenue).  
 
@@ -138,7 +138,7 @@ Total noninterest income is tagged using the same element on the income statemen
  
 Total net revenue is tagged using the same element on the income statement (Revenues).
 
-### Assessed Taxes<sup>2</sup> 
+### Assessed Taxes<sup>[2](#2)</sup> 
 The ability to distinguish if revenues includes assessed taxes is an important variable for investors. High sales taxes on certain products, if not excluded from the calculation of margins, can produce misleading results. The US GAAP Financial Reporting Taxonomy includes elements for Revenues from Contract with Customers including and excluding assessed taxes.
 
 If a company has no assessed taxes, it is recommended that the company use the revenue from contracts with customers element that excludes assessed taxes.
