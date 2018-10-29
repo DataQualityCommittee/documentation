@@ -23,8 +23,8 @@
 ### DQC Meeting 2015-06-11 [Minutes](https://xbrl.us/wp-content/uploads/2015/06/DQCminutes20150611.pdf)
 
 # Guidance
-### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) - **public comment July-September, 2018**
-### [Revenue Guidance](/guidance/RevenueRecognition.md) - **public comment July-September, 2018** 
+### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) - approved 10/10/18
+### [Revenue Guidance](/guidance/RevenueRecognition.md) - draft for Committee Approval, October 2018** 
 
 ### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
 ### [Guidance on Statement of Cash Flows](/guidance/cashflows.md) - approved 10/4/17
