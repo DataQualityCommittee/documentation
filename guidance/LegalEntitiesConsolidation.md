@@ -37,7 +37,7 @@ To tag the value of a legal entity's revenues from sales to other parties within
 
 The following example shows how Holding Inc. has reported the Revenues of two subsidiaries and the associated eliminations. 
 
-**Example of Holding Inc. consolidated**
+**Example of Holding Inc. consolidated** 
 |For the Year Ended 20XX|Sub1|Sub2|Eliminations|Consolidated|
 |---|---|---|---|---|
 |Revenues|24|830|-34|820|
@@ -45,7 +45,7 @@ The following example shows how Holding Inc. has reported the Revenues of two su
 
 The second row links to the table shown below. This table shows every possible breakdown that could be reported and the members that would be used.
 
-**Example of Holding Inc. consolidated**
+**Example of Holding Inc. consolidated** 
 |Row|Line Item|Legal Entity Axis|Consolidated Entities Axis|Consolidation Items Axis|Value|
 |---|---|---|---|---|---|
 |1|Revenues|none|Subsidiary Inc.|Consolidation Eliminations [Member]|-4|
@@ -93,17 +93,17 @@ Case 2 is used when tagging the details of a legal entity if it is consolidated 
 
 Figure 3 summarizes consolidated reporting situations and the appropriate tagging.
 
-**Figure 3**
+**Figure 3** 
 ||Concept|Legal Entity [Axis]|Consolidated Entities [Axis]|Consolidation Items [Axis]|
 |---|---|---|---|---|
-|Revenues for Registrant, net of eliminations|Revenues|None|None|None|
-|Revenues for Registrant before eliminations|Revenues|None|None|Reportable Legal Entities [Member]|
-|Revenues of non consolidated Subsidiary reported as a stand-alone|Revenues|Subsidiary Name|None|None|
-|Revenues of Subsidiary as part of consolidating schedule (before eliminations)|Revenues|None|Subsidiary Name|Reportable Legal Entities [Member]|
-|Revenues of Subsidiary eliminated in consolidation|Revenues|None|Subsidiary Name|Consolidation, Eliminations [Member]|
-|Total of all revenues eliminated in consolidation|Revenues|None|None|Consolidation, Eliminations [Member]|
-|Revenues of acquired entity for period prior to acquisition|Business Acquisition, Revenue Reported by Acquired Entity for Last Annual Period|Acquired Entity Name|None|None|
-|Revenues of acquired entity included in the consolidated results (After Eliminations)|Revenues|None|Acquired Entity Name|None|
+|Revenues for Registrant, net of eliminations|Revenues||||
+|Revenues for Registrant before eliminations|Revenues|||Reportable Legal Entities [Member]|
+|Revenues of non consolidated Subsidiary reported as a stand-alone|Revenues|Subsidiary Name|||
+|Revenues of Subsidiary as part of consolidating schedule (before eliminations)|Revenues||Subsidiary Name|Reportable Legal Entities [Member]|
+|Revenues of Subsidiary eliminated in consolidation|Revenues||Subsidiary Name|Consolidation, Eliminations [Member]|
+|Total of all revenues eliminated in consolidation|Revenues|||Consolidation, Eliminations [Member]|
+|Revenues of acquired entity for period prior to acquisition|Business Acquisition, Revenue Reported by Acquired Entity for Last Annual Period|Acquired Entity Name|||
+|Revenues of acquired entity included in the consolidated results (After Eliminations)|Revenues||Acquired Entity Name||
 
 **Groupings on the Consolidated Entities Axis**
 The _ConsolidatedEntitiesAxis_ can have different hierarchies or trees associated with it depending on how the values are consolidated. For example, the company may group consolidated entities into groups such as guarantor and non guarantor subsidiaries and issuer subsidiaries. These are shown under the domain and can include child members if multiple guarantors and non guarantor members are reported. These relationships however do not represent how the legal structure of the subsidiaries are consolidated or which subsidiaries own each other. These trees just provide different aggregations of the consolidated entities. 
@@ -177,7 +177,7 @@ There are a number of axes that could be used to represent the relationships bet
 
 The table below summarizes these relationships and what the different intersections of axes mean when combined with the revenue element of a holding company. 
 
-**Table: Dimension Combinations**
+**Table: Dimension Combinations** 
 |Meaning when reported in the Registrant Company Filing.|Revenue Value|Consolidated Entities [Axis]|Legal Entity [Axis]|Major Customer [Axis]|Disposal Group Name [Axis]|Consolidation Items [Axis]|
 |---|---|---|---|---|---|---|
 |Aggregate Revenues of Registrant Inc. (Net of eliminations)|820M|none|none|none|none|none|
