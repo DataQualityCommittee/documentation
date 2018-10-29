@@ -11,7 +11,7 @@ The FASB has issued a Taxonomy Implementation Guide, Dimensional Modeling for Di
 A registrant's financial statements can include data of a company other than the consolidated reporting entity. For example, there may be information about a co-registrant, a spin-off, a related party, an acquired entity, the parent holding company. There may also be disclosures about transactions with other parties, such as customers. Often there are disclosures about the ownership relationship of these entities. The axes used to tag these disclosures conveys important information as to the meaning of the tagged value and can change its meaning, so it is necessary to establish consistent guidance on the use of axes to avoid confusion in their intended use.
 
 ## Legal Entity Axis
-The LegalEntityAxis allows filers to report values for legal entities whether or not they are included in the consolidated totals of the reporting entity.[^1]
+The LegalEntityAxis allows filers to report values for legal entities whether or not they are included in the consolidated totals of the reporting entity.<sup>[1](#1)</sup>
 
 The members on the LegalEntityAxis should only be extension members representing the name of the legal entity. Rule DQC.US.0001 tests whether filers use inappropriate members on certain axes in the US GAAP Financial Reporting Taxonomy (Taxonomy). The rule validates that members on the LegalEntityAxis should be extensions members, with possible exceptions for legal entities defined in the US GAAP taxonomy. These are listed in the documentation of rule DQC.US.0001.
 
@@ -38,6 +38,7 @@ To tag the value of a legal entity's revenues from sales to other parties within
 The following example shows how Holding Inc. has reported the Revenues of two subsidiaries and the associated eliminations. 
 
 **Example of Holding Inc. consolidated** 
+
 |For the Year Ended 20XX|Sub1|Sub2|Eliminations|Consolidated|
 |---|---|---|---|---|
 |Revenues|24|830|-34|820|
@@ -46,6 +47,7 @@ The following example shows how Holding Inc. has reported the Revenues of two su
 The second row links to the table shown below. This table shows every possible breakdown that could be reported and the members that would be used.
 
 **Example of Holding Inc. consolidated** 
+
 |Row|Line Item|Legal Entity Axis|Consolidated Entities Axis|Consolidation Items Axis|Value|
 |---|---|---|---|---|---|
 |1|Revenues|none|Subsidiary Inc.|Consolidation Eliminations [Member]|-4|
@@ -94,6 +96,7 @@ Case 2 is used when tagging the details of a legal entity if it is consolidated 
 Figure 3 summarizes consolidated reporting situations and the appropriate tagging.
 
 **Figure 3** 
+
 ||Concept|Legal Entity [Axis]|Consolidated Entities [Axis]|Consolidation Items [Axis]|
 |---|---|---|---|---|
 |Revenues for Registrant, net of eliminations|Revenues||||
@@ -178,6 +181,7 @@ There are a number of axes that could be used to represent the relationships bet
 The table below summarizes these relationships and what the different intersections of axes mean when combined with the revenue element of a holding company. 
 
 **Table: Dimension Combinations** 
+
 |Meaning when reported in the Registrant Company Filing.|Revenue Value|Consolidated Entities [Axis]|Legal Entity [Axis]|Major Customer [Axis]|Disposal Group Name [Axis]|Consolidation Items [Axis]|
 |---|---|---|---|---|---|---|
 |Aggregate Revenues of Registrant Inc. (Net of eliminations)|820M|none|none|none|none|none|
@@ -239,5 +243,5 @@ The following diagram illustrates the tagging for reporting data for consolidate
 ![Example 6](images/leiconsolidations06.png?raw=true)
 
 ## Notes
-[^1]:
+<a name="#1"></a><sup>1</sup>:
      In a generic XBRL filing, values for a specific entity would normally be represented using the entity CIK identifier. The SEC however, only allows a company to use a single CIK identifier in its filing. The values reported for other legal entities included in the filing cannot use the entity CIK identifier. The Legal Entity Axis is a mechanism that allows companies to report financial balances and transactions for legal entities other than the filer.
