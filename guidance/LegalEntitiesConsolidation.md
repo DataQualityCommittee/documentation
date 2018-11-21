@@ -1,7 +1,6 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Dimensional Modeling Guidance – Legal Entities & Consolidation Guidance
-### Draft for Committee Approval
-### October 2018
+### Approved November 2018
 
 ## Overview
 The FASB introduced two new axes in the 2017 taxonomy:  ConsolidatedEntitiesAxis and OwnershipAxis. These axes facilitate a more uniform approach to tagging values of entities other than the reporting entity. This document is intended to provide comprehensive guidance on how to tag values of the reporting entity and third parties in an XBRL document. 
