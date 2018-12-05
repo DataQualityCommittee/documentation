@@ -4,7 +4,7 @@
   
 ### Approval of Minutes
 
-  + [October 10, 2018 Meeting Minutes](DRAFTDQCMeetingNotes102018.docx?raw=true)
+  + [October 10, 2018 Meeting Minutes](DRAFTDQCMeetingNotes10102018.docx?raw=true)
 
 ### Review and Approval of Release of DQC Rules Version 8 for Public Review / Other Amendments to Existing Rules
   + #### [DQC_0079 Extension Members](https://github.com/DataQualityCommittee/dqc_us_rules/blob/v8/docs/DQC_US_0079/DQC_0079.md)
