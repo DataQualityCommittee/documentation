@@ -1,9 +1,9 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Revenue Guidance
-### Draft for Public Review
-### July 2018
+### Approved October 2018
 
-This guidance is a DQC (or XBRL US) supplement to the FASB Taxonomy implementation guide and is designed to address problems and inconsistencies that have been identified when companies adopt the revenue standard under Accounting Standards Codification® (ASC) Topic 606, including tagging of disclosures that are not required. 
+This DQC guidance is designed to address problems and inconsistencies that have been identified when companies adopt the revenue standard under Accounting Standards Codification® (ASC) Topic 606, including tagging of disclosures that are not required. It is intended to be used in conjunction with FASB’s Taxonomy Implementation Guide for "Revenue from Contracts with Customers".
+
 
 ## Financial Statement Reporting
 
@@ -17,7 +17,7 @@ The Revenues line item element can continue to be used on the income statement f
 
 **Scenario 1:**
 
-In the situation described below the element for Revenue from Contract with Customer can be used for the aggregate revenue.
+In the situation described below the element for Revenue from Contract with Customer (either including or excluding assessed tax) can be used for the aggregate revenue.
 
 	Product Revenue (All 606)		100
 	Service Revenue (All 606)		 50
@@ -57,7 +57,7 @@ In this example the non-ASC 606 revenue is one of the following:
 
 ![Example 1](images/revrec00.png?raw=true)
 
-The filer would use Revenue from Contract with Customer to disaggregate the two ASC 606 revenues and use standard element(s) for the non-ASC 606 revenue, then use Revenues for the total revenue on the income statement.
+The filer would use Revenue from Contract with Customer and ProductOrServiceAxis with its members. To disaggregate the two ASC 606 revenues, use standard element(s) for leases or insurance premiums to tag non-ASC 606 revenue, then use Revenues for the total revenue on the income statement.
 
 Note Disclosure: 
 
@@ -77,7 +77,7 @@ Note Disclosure:
 
 In the note disclosure for Disaggregated Revenue, the filer would use the element for Revenue from Contract with Customer with the ProductOrServiceAxis (with ProductMember and ServiceMember), together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate ASC 606 revenues, if additional disaggregation is disclosed. 
 
-If the non-ASC 606 revenue is also included in the note disclosure for Disaggregated Revenue, the filer would use the same line item as the income statement for the non-ASC 606 revenue, together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate ASC 606 revenues, if additional disaggregation is disclosed. 
+If the non-ASC 606 revenue is also included in the note disclosure for Disaggregated Revenue, the filer would use the same line item as the income statement for the non-ASC 606 revenue, together with additional dimensions (such as StatementGeographicalAxis) to further disaggregate non-ASC 606 revenues, if additional disaggregation is disclosed. 
 
 The Revenues element would be used for the total revenue (ASC 606 and non-ASC 606 revenue). 
 
@@ -90,14 +90,14 @@ In the following example, the company breaks down revenue into the following cat
 	XYZ Revenue (Partly ASC 606)	 30
 	Total Revenue			180
 
-The element representing "XYZ Revenue" includes non-ASC 606 revenue. A filer in this situation would use the ProductOrServiceAxis to disaggregate the Revenues line item on the income statement (The element for Revenue from Contract with Customer would not be used). The element for Revenue from Contract with Customer however would have to appear in the notes to the financials.
+The element representing "XYZ Revenue" includes both ASC 606 and non-ASC 606 revenues. A filer in this situation would use the ProductOrServiceAxis to disaggregate the Revenues line item on the income statement (The element for Revenue from Contract with Customer would not be used). The element for Revenue from Contract with Customer however would have to appear in the notes to the financials.
 
 Note Disclosure: 
 
-	Revenue from Contract with Customers (All ASC 606)
+	Revenue from Contracts with Customers (All ASC 606)
 		US							130
 		International						 30
-		Total Revenue from Contract with Customers		160
+		Total Revenue from Contracts with Customers		160
 	Non-ASC 606 Revenue (non-ASC 606)
 		US							 10
 		International						 10
@@ -106,7 +106,7 @@ Note Disclosure:
 
 In this scenario, the filer would use Revenue from Contracts with Customers with the StatementGeographicalAxis to disaggregate revenue from contracts with customers. 
 
-The filer would use an extension element: Revenue not from Contract with Customer<sup>1</sup> (RevenueNotFromContractWithCustomer) with the StatementGeographicalAxis to disaggregate revenues not from contract with customers. 
+The filer would use an extension element: Revenue not from Contract with Customer<sup>[1](#1)</sup> (RevenueNotFromContractWithCustomer) with the StatementGeographicalAxis to disaggregate revenues not from contract with customers. 
 
 The Revenues element would be used for the total revenue (ASC 606 and non-ASC 606 revenue).  
 
@@ -128,9 +128,9 @@ Note Disclosure:
 
 In this scenario, the filer would use InterestIncomeExpenseNet  to tag the net interest income. For non-interest income line items, the filer would use the revenue line items used on the income statement.  
 
-To identify which components, represent Revenue from contract with customer and Revenues Not from Contract with Customers the filer should also provide two calculation relationships:
+To identify which components, represent Revenue from Contract with Customer and Revenues Not from Contract with Customers, the filer should also provide two calculation relationships:
 1.  Standard element Revenue from Contract with Customer with calculation children of all revenue from contract with customer (items underlined in 'green')
-1.  Extension element Revenue not from Contract with Customer with calculation children of all revenue not from contract with customer (items underlined in 'red')
+1.  Extension element Revenue Not from Contract with Customer with calculation children of all revenue not from contract with customer (items underlined in 'red')
 
 The calculation children appear in both the calculation link and presentation link, but the calculation parent is in the calculation link only (not in the presentation link as there is no value entered).
 
@@ -138,13 +138,13 @@ Total noninterest income is tagged using the same element on the income statemen
  
 Total net revenue is tagged using the same element on the income statement (Revenues).
 
-### Assessed Taxes<sup>2</sup> 
-The ability to distinguish if revenues includes assessed is an important variable for investors. High sales taxes on certain products if not excluded from the calculation of margins can produce misleading results. The US GAAP Financial Reporting Taxonomy (Taxonomy) includes elements for Revenues from Contract with Customers including and excluding assessed taxes.
+### Assessed Taxes<sup>[2](#2)</sup> 
+The ability to distinguish if revenues includes assessed taxes is an important variable for investors. High sales taxes on certain products, if not excluded from the calculation of margins, can produce misleading results. The US GAAP Financial Reporting Taxonomy includes elements for Revenues from Contract with Customers including and excluding assessed taxes.
 
 If a company has no assessed taxes, it is recommended that the company use the revenue from contracts with customers element that excludes assessed taxes.
 
 ## Revenue Remaining Performance Obligation
-Companies are now required to report their remaining performance obligation and the periods when this revenue will be recognized.  The Taxonomy has a new axis to report this information. When reporting the obligation, the following should be done.
+Companies are now required to report their remaining performance obligation and the periods when this revenue will be recognized.  The Taxonomy has a new axis to report this information. When reporting the obligation, the following should be done:
 
 1.  For every fact value reported for an obligation, a corresponding value needs to be tagged for the element `RevenueRemainingPerformanceObligationExpectedTimingOfSatisfactionPeriod1`.
 1.  When reporting the element `RevenueRemainingPerformanceObligation` in the default, the company filing can import the standard FASB template located at: [http://xbrl.fasb.org/us-gaap/2018/dis/us-gaap-dis-rcctmp03-def-2018-01-31.xml](http://xbrl.fasb.org/us-gaap/2018/dis/us-gaap-dis-rcctmp03-def-2018-01-31.xml) or create an equivalent in their filing.
@@ -153,20 +153,22 @@ Companies are now required to report their remaining performance obligation and 
 ## Selection of Elements
 If an element used in a filing is contained in section 606000 of the Taxonomy, then no elements from section 440000 can be used in the filing, except for the following exceptions:
 
-1.  ExciseAndSalesTaxes
-1.  RevenueRecognitionPolicyTextBlock (Removed in 2019 Taxonomy)
-1.  CostOfSalesPolicyTextBlock (Removed in 2019 Taxonomy)
+1.  ExciseAndSalesTaxes (Included in 440000 calculation linkbase of 2017 taxonomy)
+1.  RevenueRecognitionPolicyTextBlock (Moved out of 440000 in 2019 Taxonomy)
+1.  CostOfSalesPolicyTextBlock (Moved out of 440000 in 2019 Taxonomy)
 
-## Sub Totals by Product
-In some cases, companies break down revenues by sub categories of product and include a total for the sub category. In the example below the company has created a sub category for sales and services.
+## Sub totals by Product
+In some cases, companies break down revenues by sub categories of product and include a total for the sub category. In the example below, the company has created a sub category for sales of vehicles and services.
 ![Example 3](images/revrec03.png?raw=true)
 
-In this example the company has disclosed their revenue from contracts with customers by product line. The company has created a subtotal for revenues from sales and services of 145,407 for the consolidated total. Each of the product categories defined on the left such as Used Vehicles will appear as members on the ProductOrServiceAxis. When this axis is defined the member defined for Revenue from Sales and Services must be a parent member of the following members:
+In this example the company has disclosed their revenue from contracts with customers by product line. The company has created subtotals for revenues from vehicles and services of 145,407 for the consolidated total of revenue from contracts with customers. Each of the product categories defined on the left (such as Used Vehicles) will appear as members on the ProductOrServiceAxis. When this axis is used the member defined for Revenue from vehicles must be a parent member of the following members:
 *  Vehicles, parts and accessories
 *  Used Vehicles
+
+The member used for Revenue from services must be a parent member of the following members:
 *  Extended service contract
 *  Other 
-This structure indicates that these revenue sources are a component of sales and services and prevents double counting.
+This structure indicates that these revenue sources are a component of vehicles and services and prevents double counting. The values for revenues from vehicles and services would be tagged with no members and the element for revenue from contracts with customers. The leasing, financing and Insurance income would be non 606 income.
 
 ## Revenue Before Topic 606
 
@@ -175,7 +177,9 @@ The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member is only intended 
 Example:  
 ![Example 4](images/revrec04.png?raw=true)
 
+In the example above the member is used on the third column called "Proforma balance without the adoption of ASC 606". The second column would use the member "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member".
+
 <hr>
 
-1.  Use the US GAAP Taxonomy name for this element defined in the  2019 Taxonomy. This element was not included in the 2018 taxonomy.  
-2.  Assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the entity from a customer (for example, sales, use, value added, and some excise taxes).
+<a name="1"></a>1.  Use the US GAAP Taxonomy name for this element defined in the  2019 Taxonomy. This element was not included in the 2018 taxonomy.  
+<a name="2"></a>2.  Assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the entity from a customer (for example, sales, use, value added, and some excise taxes).
