@@ -41,7 +41,7 @@ The following example shows how Holding Inc. has reported the Revenues of two su
 |For the Year Ended 20XX|Sub1|Sub2|Eliminations|Consolidated|
 |---|---|---|---|---|
 |Revenues|24|830|-34|820|
-|See Row below:|3|7|9|11|
+|See Row below:|2|5|7|9|
 
 The second row links to the table shown below. This table shows every possible breakdown that could be reported and the members that would be used.
 
