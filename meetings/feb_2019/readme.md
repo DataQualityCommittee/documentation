@@ -8,7 +8,7 @@
 
 ### Review and Approval of Release of DQC Rules (effective February 13, 2019)
   + #### [Update Version 7.1.2](https://github.com/DataQualityCommittee/dqc_us_rules/releases/tag/v7.1.2#update)
-  + #### [Release of Version 8)](https://github.com/DataQualityCommittee/dqc_us_rules/releases/tag/v8.0.0RC4)
+  + #### [Release of Version 8](https://github.com/DataQualityCommittee/dqc_us_rules/releases/tag/v8.0.0RC4)
 
 ### Impact of Rules [Aggregated Real-time Filing Errors](https://xbrl.us/dqc-results)
 
