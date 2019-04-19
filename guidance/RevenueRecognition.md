@@ -1,6 +1,6 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Revenue Guidance
-### Revised Draft for Committee Approval
+### Approved October 2018
 
 This DQC guidance is designed to address problems and inconsistencies that have been identified when companies adopt the revenue standard under Accounting Standards Codification® (ASC) Topic 606, including tagging of disclosures that are not required. It is intended to be used in conjunction with FASB’s Taxonomy Implementation Guide for "Revenue from Contracts with Customers".
 
@@ -158,15 +158,17 @@ If an element used in a filing is contained in section 606000 of the Taxonomy, t
 1.  CostOfSalesPolicyTextBlock (Moved out of 440000 in 2019 Taxonomy)
 
 ## Sub totals by Product
-In some cases, companies break down revenues by sub categories of product and include a total for the sub category. In the example below, the company has created a sub category for sales and services.
+In some cases, companies break down revenues by sub categories of product and include a total for the sub category. In the example below, the company has created a sub category for sales of vehicles and services.
 ![Example 3](images/revrec03.png?raw=true)
 
-In this example the company has disclosed their revenue from contracts with customers by product line. The company has created a subtotal for revenues from sales and services of 145,407 for the consolidated total. Each of the product categories defined on the left (such as Used Vehicles) will appear as members on the ProductOrServiceAxis. When this axis is used the member defined for Revenue from Sales and Services must be a parent member of the following members:
+In this example the company has disclosed their revenue from contracts with customers by product line. The company has created subtotals for revenues from vehicles and services of 145,407 for the consolidated total of revenue from contracts with customers. Each of the product categories defined on the left (such as Used Vehicles) will appear as members on the ProductOrServiceAxis. When this axis is used the member defined for Revenue from vehicles must be a parent member of the following members:
 *  Vehicles, parts and accessories
 *  Used Vehicles
+
+The member used for Revenue from services must be a parent member of the following members:
 *  Extended service contract
 *  Other 
-This structure indicates that these revenue sources are a component of sales and services and prevents double counting.
+This structure indicates that these revenue sources are a component of vehicles and services and prevents double counting. The values for revenues from vehicles and services would be tagged with no members and the element for revenue from contracts with customers. The leasing, financing and Insurance income would be non 606 income.
 
 ## Revenue Before Topic 606
 
