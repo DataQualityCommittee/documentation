@@ -4,7 +4,7 @@
   
 ### Approval of Minutes
 
-  + [April 23, 2019 Meeting Minutes](DRAFTDQCMeetingNotes04232019.docx?raw=true)
+  + [April 23, 2019 Meeting Minutes](DRAFTDQCMeetingNotes042319.docx?raw=true)
 
 ### Review and Approval of Final Version 9 DQC Rules
   + [Summary of Changes to Version 9](V9-Changes.docx?raw=true)
