@@ -4,12 +4,12 @@
   
 ### Approval of Minutes
 
-  + [April 23, 2019 Meeting Minutes](DRAFTDQCMeetingNotes04232019.docx?raw=true)
+  + [April 23, 2019 Meeting Minutes](DRAFTDQCMeetingNotes042319.docx?raw=true)
 
 ### Review and Approval of Final Version 9 DQC Rules
   + [Summary of Changes to Version 9](V9-Changes.docx?raw=true)
 
-### Review and Approval of Final Version 9 DQC Rules
+### Review and Approval of Release of Version 10 DQC Rules
   + [DQC_0082 Disaggregation by VIE](DQC_0082.docx?raw=true)
   + [DQC_0083 Consolidated VIE](DQC_0083.docx?raw=true)
   + [DQC_0084 Durational Aggregation](DQC_0084.docx?raw=true)
