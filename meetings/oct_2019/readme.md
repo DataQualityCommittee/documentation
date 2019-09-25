@@ -21,9 +21,9 @@
 
 ### Review of Version 11 DQC Rules
   + DQC_0001 Axis Member – add BusinessAcquisitionAxis
-  + [DQC_0080 IFRS 2019 New Elements](DQC_0080 IFRS 2019 New elements.xlsx?raw=true)
-  + [DQC_0085 Deferred Tax Assets and Liabilities](DQC_0085 Deferred Tax Assets and Liabilities.docx?raw=true)
-  + [DQC_0086 – Transition Tax Elements](DQC_0086 Transition Tax Elements.docx?raw=true)
+  + [DQC_0080 IFRS 2019 New Elements](DQC_0080%20IFRS%202019%20New%20elements.xlsx?raw=true)
+  + [DQC_0085 Deferred Tax Assets and Liabilities](DQC_0085%20Deferred%20Tax%20Assets%20and%20Liabilities.docx?raw=true)
+  + [DQC_0086 – Transition Tax Elements](DQC_0086%20Transition%20Tax%20Elements.docx?raw=true)
 
 ### Future Rules/Guidance (Version 12)
 
