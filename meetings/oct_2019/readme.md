@@ -17,7 +17,7 @@
 ### Linkbase for DQC Rules
 
 ### SEC Test Filing Warnings
-  + [SEC Test Filings Warnings and Other Related SEC Issues](SEC Test Filing Warnings and Other SEC Related Issues.docx?raw=true)
+  + [SEC Test Filings Warnings and Other Related SEC Issues](SEC%20Test%20Filing%20Warnings%20and%20Other%20SEC%20Related%20Issues.docx?raw=true)
 
 ### Review of Version 11 DQC Rules
   + DQC_0001 Axis Member – add BusinessAcquisitionAxis
