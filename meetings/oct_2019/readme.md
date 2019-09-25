@@ -11,7 +11,8 @@
   + [DQC_0083 Consolidated VIE](https://xbrl.us/dqc_0083)
   + [DQC_0084 Durational Aggregation](https://xbrl.us/dqc_0084)
 
-### DQC Errors - [Review of Graphs](https://xbrl.us/dqc-results)
+### DQC Errors - Review of Graphs
+  + [Aggregated Real-time Filing Errors](https://xbrl.us/dqc-results)
 
 ### Linkbase for DQC Rules
 
