@@ -18,6 +18,8 @@
 	- Remove operating lease elements from rule
 
 ### Introduction of rules for Version 12
+  + DQC_0015 – Non-negative update for 2020 US GAAP Taxonomy
+  + DQC_0084 – Durational Aggregation update for IFRS elements
   + DQC_0091 - Scaling for Percentages
   + DQC_00xx - Scaling for Shares
   + DQC_00xx – Fiscal Maturities
