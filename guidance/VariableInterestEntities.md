@@ -19,7 +19,7 @@ In the example below the company reports the portion of account balances applica
 
 ![alt_text](images/vie01.png "VIE 1")
  
-The parenthetical amounts are applicable to the variable interest entity included in the balance sheet line items.  As such these disclosures are tagged using the balance sheet items used in the balance sheet and should use the _ConsolidatedEntitiesAxis_ and the member _VariableInterestEntityPrimaryBeneficiaryMember_<sup>[[1]](#ftn1)</sup>.  This member is used because the Primary Beneficiary member represents the value consolidated by the company. 
+The parenthetical amounts are applicable to the variable interest entity included in the balance sheet line items.  As such these disclosures are tagged using the balance sheet line items used in the balance sheet and should use the _ConsolidatedEntitiesAxis_ and the member _VariableInterestEntityPrimaryBeneficiaryMember_<sup>[[1]](#ftn1)</sup>.  This member is used because the Primary Beneficiary member represents the value consolidated by the company. 
 
 Alternatively the company below has separately  reported cash, Investments and other assets specifically for the variable interest entity in the balance sheet with values of 82 and 1,286 and 46 in the column for the year 2017.  To ensure tagging consistency with the above example this amount should be tagged with the appropriate balance sheet line item and the ConsolidatedEntitiesAxis and the member _VariableInterestEntityPrimaryBeneficiaryMember_.  The value for $6,165 for cash and cash equivalents on row 1  cannot be tagged with the default value as it excludes the holdings of the variable interest entities.
 
@@ -35,7 +35,7 @@ See example below:
 
 All of the values in the table above will be tagged with the members _VariableInterestEntityPrimaryBeneficiaryMember_ and _ReportableLegalEntitiesMember._
 
-US GAAP taxonomies up to 2019 included in the VIE section of the taxonomy a balance sheet location axis to facilitate reporting the balances on the balance sheet of the portion applicable to the VIE.  This was originally designed to allow the use of the Consolidated VIE line items in conjunction with the _BalanceSheetLocationAxis_. This approach however is inconsistent with the introduction of the consolidation axis in the US GAAP taxonomy.  The recommended approach is to discontinue use of the _BalanceSheetLocationAxis_  and instead use the balance sheet line items with the _ConsolidatedEntitiesAxis_ and _VariableInterestEntityPrimaryBeneficiaryMember_  as discussed above. Filers should not use the following elements for VIE reporting in their filings<sup>[[2]](#ftn2)</sup>:
+US GAAP taxonomies up to 2019 included in the VIE section of the taxonomy a balance sheet location axis to facilitate reporting the balances on the balance sheet of the portion applicable to the VIE.  This was originally designed to allow the use of the Consolidated VIE line items in conjunction with the _BalanceSheetLocationAxis_. This approach however is inconsistent with the introduction of the _ConsolidatedEntitiesAxis_ in the US GAAP taxonomy.  The recommended approach is to discontinue use of the _BalanceSheetLocationAxis_ and instead use the balance sheet line items with the _ConsolidatedEntitiesAxis_ and _VariableInterestEntityPrimaryBeneficiaryMember_  as discussed above. Filers should not use the following elements for VIE reporting in their filings<sup>[[2]](#ftn2)</sup>:
 
 1. VariableInterestEntityConsolidatedAssetsCurrent
 2. VariableInterestEntityConsolidatedAssetsNoncurrent
