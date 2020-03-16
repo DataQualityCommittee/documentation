@@ -1,4 +1,7 @@
-# Guidance
+# Guidance for Public Review and Comment
+### [Guidance on Variable Interest Entities](/guidance/VariableInterestEntities.md) - public review March 16 - April 30, 2020
+
+# Approved Guidance
 ### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
 
 ### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) -  approved 11/20/18
