@@ -1,6 +1,6 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Variable Interest Entities
-### Draft for Committee approval to expose for public review and comment - March 3, 2020
+### Draft Public Review and Comment - March 16 - April 30, 2020 - see [https://xbrl.us/public-review](https://xbrl.us/public-review)
 
 ## Consolidated Entities
 
