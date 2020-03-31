@@ -11,8 +11,9 @@
 
 # Meeting Agendas & Minutes
 
-### DQC Meeting 2020-02-12 [Agenda](/meetings/feb_2020/readme.md)  
-### DQC Meeting 2019-11-12 [Agenda](/meetings/nov_2019/readme.md) - [DRAFT Minutes](/meetings/feb_2020/DRAFTDQCMeetingNotes111219.docx?raw=true)  
+### DQC Meeting 2020-04-01 [Agenda](/meetings/apr_2020/readme.md)  
+### DQC Meeting 2020-02-12 [Agenda](/meetings/feb_2020/readme.md) - [DRAFT Minutes](meetings/apr_2020/DRAFTDQCMeetingNotes021220.docx?raw=true)  
+### DQC Meeting 2019-11-12 [Agenda](/meetings/nov_2019/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2019/10/DQCMeetingNotes111219.pdf)  
 ### DQC Meeting 2019-10-01 [Agenda](/meetings/oct_2019/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2019/07/DQCMeetingNotes10012019.pdf) 
 ### DQC Meeting 2019-07-15 [Agenda](/meetings/jul_2019/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2019/07/DQCMeetingNotes071519.pdf)  
 ### DQC Meeting 2019-04-23 [Agenda](/meetings/apr_2019/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2019/02/DQCMeetingNotes042319.pdf)  
