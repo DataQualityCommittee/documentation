@@ -17,8 +17,9 @@
   + [Error Graphs](ErrorGraphsApr2020.pptx?raw=true) - [excerpted from https://xbrl.us/dqc-results](https://xbrl.us/dqc-results)
   + [Rules Analysis](RulesAnalysis.xlsx?raw=true)
 
-### Analysis of DQC_0001
-  + [Q12020 results](DQC_0001ErrorsQ12020.xlsx?raw=true)
+### Analysis of Q1 2020
+  + [DQC_0001 Q1 2020 results](DQC_0001ErrorsQ12020.xlsx?raw=true)
+  + [DQC_0015 Q1 2020 results](DQC_0015ErrorsQ12020.xlsx?raw=true)
 
 ### Linkbase for DQC Rules
 
