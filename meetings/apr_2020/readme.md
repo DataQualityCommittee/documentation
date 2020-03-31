@@ -14,7 +14,7 @@
   + [DQC_0095 – Scaling for Shares](https://github.com/DataQualityCommittee/dqc_us_rules/blob/v12/docs/DQC_US_0095/DQC_0095.md)
 
 ### DQC Errors – Review of Graphs
-  + [Error Graphs](ErrorGraphsApr2020.pptx?raw=true) - [https://xbrl.us/dqc-results](https://xbrl.us/dqc-results)
+  + [Error Graphs](ErrorGraphsApr2020.pptx?raw=true) - [excerpted from https://xbrl.us/dqc-results](https://xbrl.us/dqc-results)
   + [Rules Analysis](RulesAnalysis.xlsx?raw=true)
 
 ### Analysis of DQC_0001
