@@ -18,6 +18,7 @@
   + [Rules Analysis](RulesAnalysis.xlsx?raw=true)
 
 ### Analysis of DQC_0001
+  + [Q12020 results](DQC_0001ErrorsQ12020.xlsx?raw=true)
 
 ### Linkbase for DQC Rules
 
