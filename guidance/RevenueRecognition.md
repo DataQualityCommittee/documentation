@@ -1,6 +1,7 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Revenue Guidance
 ### Approved October 2018
+### Updated August 2020
 
 This DQC guidance is designed to address problems and inconsistencies that have been identified when companies adopt the revenue standard under Accounting Standards Codification® (ASC) Topic 606, including tagging of disclosures that are not required. It is intended to be used in conjunction with FASB’s Taxonomy Implementation Guide for "Revenue from Contracts with Customers".
 
@@ -112,31 +113,7 @@ The Revenues element would be used for the total revenue (ASC 606 and non-ASC 60
 
 **Scenario 4:**
 #### Revenue for Financial Institutions
-Typically, a financial institution's reporting of revenues is broken down between interest-based revenue and non-interest revenue.  This means the aggregate revenues cannot be cleanly disaggregated into revenue from contracts with customers.
-
-The following example highlights this complexity:
-![Example 2](images/revrec01.png?raw=true)
-
-The non-interest income is comprised of income that is ASC 606 revenue and non-606 revenue.  To report the net interest-related revenue the line items from the Taxonomy should be used. 
-
-The aggregate total of non-interest income should use line item (NoninterestIncome) on the face financial statements. In the above example, the specific line items (standard elements or extensions) should be used for the items within the non-interest income section on the income statement. 
-
-Total revenues for the bank including non-interest income should use the Revenues element on the income statement.
-
-Note Disclosure:  
-![Note Disclosure 1](images/revrec02.png?raw=true)
-
-In this scenario, the filer would use InterestIncomeExpenseNet  to tag the net interest income. For non-interest income line items, the filer would use the revenue line items used on the income statement.  
-
-To identify which components, represent Revenue from Contract with Customer and Revenues Not from Contract with Customers, the filer should also provide two calculation relationships:
-1.  Standard element Revenue from Contract with Customer with calculation children of all revenue from contract with customer (items underlined in 'green')
-1.  Extension element Revenue Not from Contract with Customer with calculation children of all revenue not from contract with customer (items underlined in 'red')
-
-The calculation children appear in both the calculation link and presentation link, but the calculation parent is in the calculation link only (not in the presentation link as there is no value entered).
-
-Total noninterest income is tagged using the same element on the income statement (NoninterestIncome).
- 
-Total net revenue is tagged using the same element on the income statement (Revenues).
+This section of the Data Quality Committee's Guidance has been superseded by FASB's <em>Revenue from Contracts with Customers (Including Statement Presentation of Revenue and Cost of Revenue - 2020 Taxonomy)</em> - see <a href="https://fasb.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Length&blobheadervalue1=filename%3DFinal_Imp_Guide-Revenue_from_Contracts_with_Customers_%28Including_Stmt_Presentation_of_Revenue_and_Cost_of_Revenue%29.pdf&blobheadervalue2=1941550&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1175836138562&ssbinary=true#page=72" target="_blank">Section 2 Examples 13a, b and c starting on page 70 of https://fasb.org/revenue_2020</a>.
 
 ### Assessed Taxes<sup>[2](#2)</sup> 
 The ability to distinguish if revenues includes assessed taxes is an important variable for investors. High sales taxes on certain products, if not excluded from the calculation of margins, can produce misleading results. The US GAAP Financial Reporting Taxonomy includes elements for Revenues from Contract with Customers including and excluding assessed taxes.

@@ -7,7 +7,7 @@
 ### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) -  approved 11/20/18
 ### [Guidance on Statement of Cash Flows](/guidance/cashflows.md) - approved 10/4/17
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
-### [Revenue Guidance](/guidance/RevenueRecognition.md) -  approved 10/10/18
+### [Revenue Guidance](/guidance/RevenueRecognition.md) -  approved 10/10/18, updated 08/01/2020
 
 # Meeting Agendas & Minutes
 ### DQC Meeting 2020-07-15 [Agenda](/meetings/jul_2020/readme.md)
