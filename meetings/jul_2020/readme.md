@@ -6,7 +6,7 @@
   + [April 1, 2020 Meeting Minutes](DRAFTDQCMeetingNotes040120.docx?raw=true)
 
 ### Review and Approval of Version 12 DQC Rules
-  + [DQC_0015 – Non-negative update for 2020 US GAAP Taxonomy](2020TaxonomyUpdates-NonNegs.xlsx?raw=true)
+  + [DQC_0015 – Non-negative update for 2020 US GAAP Taxonomy](../apr_2020/2020TaxonomyUpdates-NonNegs.xlsx?raw=true)
   + [DQC_0091 – Scaling for Percentages](https://github.com/DataQualityCommittee/dqc_us_rules/blob/v12/docs/DQC_US_0091/DQC_0091.md)
   + [DQC_0092 – Non-positive values (IFRS)](https://github.com/DataQualityCommittee/dqc_us_rules/blob/v12/docs/DQC_US_0092/DQC_0092.md)
   + [DQC_0093 – Durational Aggregation (IFRS)](https://github.com/DataQualityCommittee/dqc_us_rules/blob/v12/docs/DQC_US_0093/DQC_0093.md)
