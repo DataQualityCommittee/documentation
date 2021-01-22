@@ -1,11 +1,12 @@
 # Approved Guidance
-### [Guidance on Tagging Axis and Members Using the IFRS Taxonomy](/guidance/tagging-ifrs.md) - approved 01/20/21
 
 ### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
 
 ### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) -  approved 11/20/18
 
 ### [Guidance on Statement of Cash Flows](/guidance/cashflows.md) - approved 10/4/17
+
+### [Guidance on Tagging Axis and Members Using the IFRS Taxonomy](/guidance/tagging-ifrs.md) - approved 01/20/21
 
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
 
