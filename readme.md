@@ -1,12 +1,14 @@
-# Guidance for Public Review and Comment
-### [Guidance on Variable Interest Entities](/guidance/VariableInterestEntities.md) - public review March 16 - April 30, 2020
-
 # Approved Guidance
+### [Guidance on Tagging Axis and Members Using the IFRS Taxonomy](/guidance/tagging-ifrs.md) - approved 01/20/21
+
 ### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
 
 ### [Dimensional Modeling Guidance - Legal Entities &amp; Consolidation Guidance](/guidance/LegalEntitiesConsolidation.md) -  approved 11/20/18
+
 ### [Guidance on Statement of Cash Flows](/guidance/cashflows.md) - approved 10/4/17
+
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
+
 ### [Revenue Guidance](/guidance/RevenueRecognition.md) -  approved 10/10/18, updated 08/01/2020
 
 # Meeting Agendas & Minutes
