@@ -1,6 +1,7 @@
 ## XBRL US Center for Data Quality Committee Guidance
 # Guidance on Tagging Axis and Members Using the IFRS Taxonomy
 ### Approved January 20, 2021
+### Updated February 9, 2021
 
 The XBRL US Data Quality Committee (DQC) has developed prescriptive guidance for issuers submitting XBRL files that contain financial statements to the Securities Exchange Commission (SEC).  This guidance provides for uniform, consistent tagging of financial data using the IFRS taxonomy to improve the usability of such data.  The DQC has also developed rules that test XBRL files for conformity with the guidance.  The guidance in this document provides links and references, where applicable, to the associated rules developed by the DQC.  It is expected that issuers will comply with the guidance presented in this document when tagging their IFRS financial statements for submission to the SEC.  
 
@@ -68,6 +69,7 @@ The rule DQC_0104.9554 checks if inappropriate extensions have been used with th
 |Corporate Non-segment|CorporateNonSegmentMember|Represents the aggregate total of non operating corporate items|  
 |Geography Eliminations|GeographyEliminationsMember|Represents the aggregate total of geographical elimination items|  
 |Other Non-segment|OtherNonSegmentMember|Represents the aggregate total of non operating other items|   
+|Operating Segments And Unallocated|OperatingSegmentsAndUnallocatedMember|Represents the aggregate total of operating segments and unallocated items|
 
 ### Segment [Axis]
 (_SegmentAxis_) 
