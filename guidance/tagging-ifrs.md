@@ -43,6 +43,11 @@ Extension members can be used as long as they are defined as children of the fol
 *   EliminationOfIntersegmentAmountsMember,
 *   UnallocatedAmountsMember 
 
+The following extension members can also be used as long as they are descendants of the OperatingSegmentsMember:
+
+*   ReportableSubsegmentsMember
+*   IntersubsegmentEliminationsMember
+
 In addition, the rule allows the filers to define the following common extension members that capture other totals that are commonly reported:
 
 *   CorporateReconcilingItemsAndEliminationsMember,
