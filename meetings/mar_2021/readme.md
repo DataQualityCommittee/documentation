@@ -6,16 +6,16 @@
   + [January 20, 2021 Meeting Minutes](DRAFTDQCMeetingNotes012021.docx?raw=true)
 
 ### Review and Approval of Version 15 DQC Rules For Public Review
-[Version 15 Rules Summary](v15Summary.docx?raw=true) [.zip of rule submission forms](v15proposed.zip) proposed for public review
-    - DQC_0107 – General Text Block
-    - DQC_0108 – Fact Value Consistency Over Time
-    - DQC_0109 – Concentration Risk
-    - DQC_0110 – Missing Business Acquisition Axis (Short Period)
-    - DQC_0112 – Line Items Requiring the Business Acquisition Axis
-    - DQC_0113 – Gross Acquisition Less Than Net Acquisition
-    - DQC_0114 – Assets Acquired Net of Goodwill
-    - DQC_0115 – Fact Value Consistency Over Time
-    - DQC_0116 – Line Items Requiring the Asset Acquisition Axis
+[Version 15 Rules Summary (.docx)](v15Summary.docx?raw=true) ([.zip of rule submission forms](v15proposed.zip) proposed for public review)
+  + DQC_0107 – General Text Block
+  + DQC_0108 – Fact Value Consistency Over Time
+  + DQC_0109 – Concentration Risk
+  + DQC_0110 – Missing Business Acquisition Axis (Short Period)
+  + DQC_0112 – Line Items Requiring the Business Acquisition Axis
+  + DQC_0113 – Gross Acquisition Less Than Net Acquisition
+  + DQC_0114 – Assets Acquired Net of Goodwill
+  + DQC_0115 – Fact Value Consistency Over Time
+  + DQC_0116 – Line Items Requiring the Asset Acquisition Axis
 
 ### Break
 
