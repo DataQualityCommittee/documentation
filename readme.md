@@ -13,8 +13,9 @@
 ### [Revenue Guidance](/guidance/RevenueRecognition.md) -  approved 10/10/18, updated 08/01/2020
 
 # Meeting Agendas & Minutes
-### DQC Meeting 2021-06-29 [Agenda](/meetings/jun_2021/readme.md)
-### DQC Meeting 2021-03-24 [Agenda](/meetings/mar_2021/readme.md) - [DRAFT Minutes](/meetings/jun_2021/DRAFTDQCMeetingNotes032421.docx?raw=true)
+### DQC Meeting 2021-09-29 [Agenda](/meetings/sep_2021/readme.md)
+### DQC Meeting 2021-06-29 [Agenda](/meetings/jun_2021/readme.md) - [DRAFT Minutes](/meetings/sep_2021/DRAFTDQCMeetingNotes06292021.docx?raw=true)
+### DQC Meeting 2021-03-24 [Agenda](/meetings/mar_2021/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2021/01/DQCMeetingNotes03242021.pdf)
 ### DQC Meeting 2021-01-20 [Agenda](/meetings/jan_2021/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2020/10/DQCMeetingNotes210121.pdf) 
 ### DQC Meeting 2020-10-07 [Agenda](/meetings/oct_2020/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2020/08/DQCMeetingNotes100720.pdf)
 ### DQC Meeting 2020-07-15 [Agenda](/meetings/jul_2020/readme.md) - [Minutes](https://xbrl.us/wp-content/uploads/2019/10/DQCMeetingNotes071520.pdf)
