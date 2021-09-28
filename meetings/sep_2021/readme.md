@@ -194,32 +194,16 @@ BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentFi
 #### Summary of Rules ([.zip of rule submission forms](v17-public-review.zip) proposed for public review)
 
 **DQC_0125 - Lease Cost Cannot be Negative** 
-This rule identifies those cases where the lease cost is negative and no Sublease Income is reported. Lease costs can be negative in those cases where the lease is sub leased to another party and the sublease income exceeds the lease cost.
-
-This rule uses the same logic as rule 15 except that it adds an additional check to ensure that the element SubleaseIncome has been reported in the same period.
+Lease costs can be negative in those cases where the lease is sub leased to another party and the sublease income exceeds the lease cost. This rule identifies those cases where the lease cost is negative and no Sublease Income is reported.
 
 **DQC_0126 - FS Calculation Check with Non Dimensional Data** 
-This rule identifies those cases where the calculations defined for the financial statements in the company provided calculation linkbase do not match the actual values reported. The rule checks all networks that contain the text '- Statement -' in the definition.  It excludes any statements that are not the Balance Sheet, Income Statement and Cash Flow Statement.  The Statement of Changes in Shareholders Equity is not covered by this rule.
-
-This rule only applies to those facts that are reported in the company's required context (current reporting context). This means prior periods are not checked. This eliminates the possibility of generating false positives on incomplete periods. It is assumed that the required context for each statement includes all the facts to make each report a complete calculation set.
-
-This rule only operates on those financial statements that are not defined as an XBRL table using dimensions to represent values on the statement. This rule checks if a definition linkbase is defined for the statement. If it is not then the rule will proceed to execute. The absence of dimensions means that the rule will only add those values with no dimensions associated with them.
-
-The rule works through every element in the statement and checks if it has any calculation children. If it does it takes the values of the children in the default and checks that they add to the parent value.
+This rule identifies those cases where the calculations defined for the face financial statements (Statement of Changes in Shareholders Equity is not covered) in the company provided calculation linkbase do not match the actual values reported.  The rule works through every element in the statement and checks if it has any calculation children. If it does it takes the values of the children in the default and checks that they add to the parent value.
 
 **DQC_0127 - Incorrect Dimensional Item Used on Financial Statements** 
-This rule identifies those cases where the dimensional structures defined for the financial statements in the company provided definition linkbase do not match the actual values reported. The rule checks all networks that contain the text '- Statement -' in the network definition description.  It excludes any statements that are not the Balance Sheet, Income Statement and Cash Flow Statement.  The Statement of Changes in Shareholders Equity is not covered by this rule.
-
-The rule has two components.  The first component checks those statements where no dimensions are defined and the second component checks those statements where dimensions are defined.
+This rule identifies those cases where the dimensional structures defined for the face financial statements (Statement of Changes in Shareholders Equity is not covered) in the company provided definition linkbase do not match the actual values reported.
 
 **DQC_0128 - Dimensional Values Larger than the Default** 
-This rule identifies those facts on specific dimensions and checks the values are smaller than the default value with no dimensions. The rule identifies a list of dimensions that should not have negative values and determines if any of the dimensionalized monetary values are greater than the default value.
-
-The rule only checks those concepts that are monetary items that are also items that cannot ever be reported with a negative value. This uses the same list of elements used by DQC_0015 for validating negative items.
-
-The rule also only compares the two values where the decimals of each of the values is the same.
-
-The rule only checks dimensionalized values that appear on the following axes:
+The rule identifies a list of dimensions that should not have negative values and determines if any of the dimensionalized monetary values are greater than the default value.  This uses the same list of elements used by rule 15 for validating negative items.  The rule only checks dimensionalized values that appear on the following axes:
 
   - PropertyPlantAndEquipmentByTypeAxis, 
   - StatementClassOfStockAxis, 
@@ -229,12 +213,10 @@ The rule only checks dimensionalized values that appear on the following axes:
   - DebtInstrumentAxis
 
 **DQC_0129 - Dimensional Equivalents IFRS** 
-This rule evaluates whether a fact expressed with no dimensions is equal to the same fact expressed in a table with dimensions. This can occur when fact values are represented in a table format in one part of the financial statements and the same value is expressed without using a table in a separate part of the financial statements. For example, the value of Additional Paid in Capital is represented as a line item on the face of the Balance Sheet with no dimensions and as Stockholders Equity as a line item with an Additional Paid in Capital Member in the Statement of Shareholders Equity.
-
-In addition this rule determines if the dimensional value should be the inverse of the same value represented as a line item. For example, the value of Treasury Stock on the Balance Sheet will be a positive value but the value of Stockholders Equity with the Treasury Stock Member in the Statement of Shareholders Equity will be a negative value.
+This rule evaluates whether a fact expressed with no dimensions is equal to the same fact expressed in a table with dimensions. In addition, this rule determines if the dimensional value should be the inverse of the same value represented as a line item.
 
 **DQC_0130 - Earnings Per Share Calculation IFRS** 
-This rule evaluates if the value reported for earnings per share metrics matches the value calculated from its components.  The rule reperforms the calculation for the following elements using defined numerators and denominators. This rule evaluates if the value reported for earnings per share metrics matches the value calculated from its components.  The rule reperforms the calculation for the following elements using the defined numerators and denominators. If any of the components of the calculation are missing then the rule will not run. The values are compared using a tolerance of 4 based on the decimals used.
+This rule evaluates if the value reported for earnings per share metrics matches the value calculated from its components.
 
 ### Trends in Filings
   - Transition elements
