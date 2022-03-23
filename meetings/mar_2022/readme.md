@@ -17,10 +17,12 @@
 
 ### Analysis of DQC Errors by Rule
 
+### Demonstration of Standardized Data
+
 ### Guidance Development
-  -- Focus on Disclosures (Investments, Taxes)
-  -- Existing DQC Rules
-  -- Tagging of Auditor Information
+  - Focus on Disclosures (Investments, Taxes)
+  - Existing DQC Rules
+  - Tagging of Auditor Information
 
 ### IFRS/ESEF Alignment
 
