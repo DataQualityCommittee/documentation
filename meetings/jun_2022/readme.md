@@ -36,7 +36,7 @@ The following elements were **added as a result of Public Review** to determine 
 
 ### Review and Approval of Version 19 DQC Rules for Public Review
 
-**[DQC_0139 - Location Axis with a Single Member](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0139/DQC_0139.md)** - This rule resolves the issue where the capital adequacy ratios are reported with an incorrect scale. It also ensures that filers have used the appropriate elements to report their capital adequacy ratios.
+**[DQC_0139 - Bank Ratios - Scale Issues](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0139/DQC_0139.md)** - This rule resolves the issue where the capital adequacy ratios are reported with an incorrect scale. It also ensures that filers have used the appropriate elements to report their capital adequacy ratios.
 
 **[DQC_0140 - Investment Schedule Cross Calc](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0140/DQC_0140.md)** - The rule ensures that the correct elements are used in the investment schedule. Specifically it ensures that consistent elements are used for including and excluding accrued interest elements in the investment disclosure.
 
