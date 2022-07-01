@@ -12,13 +12,25 @@
 **[DQC_0134 - Investment Schedule - Financial Instrument Axis](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v18/docs/DQC_US_0134/DQC_0134.md)** - The purpose of the rule is to ensure that filers report values associated with the element AvailableForSaleDebtSecuritiesAmortizedCostBasis with the correct dimensions.  The rule is intended to align filer disclosures with the guidance defined by the FASB in "Financial Instruments Debt Securities".
 
 The following elements were **added as a result of Public Review** to determine that they were used with the financial instruments axis:
-<ol type="a">
-  <li>DebtSecuritiesAvailableForSaleAmortizedCostCurrent,</li> 
-  <li>DebtSecuritiesAvailableForSaleAmortizedCostNoncurrent,</li> 
-  <li>AvailableForSaleSecuritiesDebtSecurities,</li> 
-  <li>AvailableForSaleSecuritiesDebtSecuritiesCurrent,</li> 
-  <li>AvailableForSaleSecuritiesDebtSecuritiesNoncurrent</li> 
-</ol>
+
+  - AvailableForSaleDebtSecuritiesAmortizedCostBasis
+  - DebtSecuritiesAvailableForSaleAmortizedCostCurrent, 
+  - DebtSecuritiesAvailableForSaleAmortizedCostNoncurrent,
+  - DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestBeforeAllowanceForCreditLoss,
+  - DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestBeforeAllowanceForCreditLossCurrent,
+  - DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestBeforeAllowanceForCreditLossNoncurrent,
+  - DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLoss,
+  - DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLossCurrent,
+  - DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLossNoncurrent, 
+  - DebtSecuritiesAvailableForSaleAmortizedCostAfterAllowanceForCreditLoss, 
+  - DebtSecuritiesAvailableForSaleAmortizedCostAfterAllowanceForCreditLossCurrent,
+  - DebtSecuritiesAvailableForSaleAmortizedCostAfterAllowanceForCreditLossNoncurrent,
+  - AvailableForSaleSecuritiesDebtSecurities,
+  - AvailableForSaleSecuritiesDebtSecuritiesCurrent,
+  - AvailableForSaleSecuritiesDebtSecuritiesNoncurrent,
+  - DebtSecuritiesAvailableForSaleExcludingAccruedInterest,
+  - DebtSecuritiesAvailableForSaleExcludingAccruedInterestCurrent,
+  - DebtSecuritiesAvailableForSaleExcludingAccruedInterestNoncurrent
 
 **[DQC_0135 - Extensible Enumerations for Financial Statement Captions](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v18/docs/DQC_US_0135/DQC_0135.md)** – The FASB has defined a number of elements that if reported and are not included in the face financial statements, filers need to indicate which financial statement caption the amounts appear (these elements have been identified in the US GAAP taxonomy as extensible enumeration elements). This rule has two components. The first component identifies an error if the company has made a disclosure and has not included the caption where the amount appears in the financial statements.  The second reports an error for a fact that includes the Balance Sheet and Income Statement Location axis and does not have an associated extensible enumeration using the same dimensions.
 
