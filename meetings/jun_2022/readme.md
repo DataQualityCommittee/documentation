@@ -50,7 +50,7 @@ The following elements were **added as a result of Public Review** to determine 
 
 **[DQC_0139 - Bank Ratios - Scale Issues](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0139/DQC_0139.md)** - This rule resolves the issue where the capital adequacy ratios are reported with an incorrect scale. It also ensures that filers have used the appropriate elements to report their capital adequacy ratios.
 
-**[DQC_0140 - Investment Schedule Cross Calc](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0140/DQC_0140.md)** - The rule ensures that the correct elements are used in the investment schedule. Specifically it ensures that consistent elements are used for including and excluding accrued interest elements in the investment disclosure.
+**[DQC_0140 - Investment Schedule Cross Calc](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0140/DQC_0140.md)** - This rule is intended to identify those cases where the company has misused elements in the investment schedule showing the difference in amortized cost and fair value. The rule checks that the investment schedule that shows the difference between amortized cost and fair value is calculated correctly.
 
 **[DQC_0141 - Inconsistent Accrued Interest Elements](https://github.com/dataqualitycommittee/dqc_us_rules/blob/v19/docs/DQC_US_0141/DQC_0141.md)** - The rule ensures that the correct elements are used in the investment schedule. Specifically it ensures that consistent elements are used for including and excluding accrued interest elements in the investment disclosure.
 
