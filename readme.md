@@ -1,3 +1,7 @@
+# Public Review Guidance
+
+### [Investment Guidance FAQ](/guidance/InvestmentGuidance.md) - comment until 8/31/22 at [https://xbrl.us/public-review](https://xbrl.us/public-review)
+
 # Approved Guidance
 
 ### [Guiding Principles for Element Selection](/guidance/GuidingPrinciples.pdf) - approved 10/4/17
