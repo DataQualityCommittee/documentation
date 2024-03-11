@@ -22,7 +22,7 @@ The rule reads the relationship arc http://www.xbrl.org/2021/arcrole/concept-dim
      2) dividend line items have been used with the appropriate members of the `ComponentsOfEquityAxis`, and 
      3) the concepts `DividendsPaidOrdinarySharesPerShare` and `DividendsPaidOtherSharesPerShare` are not used with a redundant class of stock axis.
   - **[DQC_187 – Property Plant and Equipment Calculation](https://github.com/davidtauriello/dqc_us_rules/tree/v24/docs/DQC_US_0187/DQC_0187.md)** - This rule tests that the elements `PropertyPlantAndEquipmentGross` and  `PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetBeforeAccumulatedDepreciationAndAmortization` are recorded correctly.  Four components of the rule check calculations to determine these elements are recorded consistently.
-  - **[DQC_188 – NonNegative Rule (2024 update)](https://github.com/davidtauriello/dqc_us_rules/tree/v24/docs/DQC_US_0015/DQC_0015.md)** - The non negative rules were updated for 2024 elements.
+  - **[DQC_0015 – NonNegative Rule (2024 update)](https://github.com/davidtauriello/dqc_us_rules/tree/v24/docs/DQC_US_0015/DQC_0015.md)** - The non negative rules were updated for 2024 elements.
 
 ### Executive Session
   - Review Agenda for Meeting with SEC Staff
