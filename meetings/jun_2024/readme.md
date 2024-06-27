@@ -36,7 +36,7 @@ The rule reads the relationship arc http://www.xbrl.org/2021/arcrole/concept-dim
 Proposed Effective Date for Version 24 **August 31, 2024 (exclude DQC_0193 Standard Dividend Member Name)**  
 Proposed Effective Date for DQC_0193 Standard Dividend Member Name **November 30, 2024** 
 
-### Executive Session
+### Introduction of Version 25 DQC Rules
   - Introduction of Version 25 DQC Rules - Rule forms to be distributed after meeting
 ### Wrap Up/Future Meetings
   - September 25, 2024 (Washington, DC)
