@@ -10,7 +10,7 @@
 
 ### [Guidance on Tagging Axis and Members Using the US GAAP Taxonomy](/guidance/tagging.md) - approved 9/29/16, updated 11/29/16
 
-### [Reporting US GAAP Dividend Disclosures in XBRL - FAQ](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/guid-dividend.pdf)
+### [Reporting US GAAP Dividend Disclosures in XBRL - FAQ](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/guid-dividend.pdf) -  approved 6/27/24
 
 ### [Revenue Guidance](/guidance/RevenueRecognition.md) -  approved 10/10/18, updated 08/01/2020
 
