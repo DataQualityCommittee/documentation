@@ -17,13 +17,13 @@ and recommends replacement of the axis with the _ConsolidatedEntitiesAxis_
 
 In the example below the company reports the portion of account balances applicable to the variable interest entity as a parenthetical disclosure for each period of the disclosure.
 
-![alt_text](images/vie01.png "VIE 1")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/vie01.png?raw=true "VIE 1")
  
 The parenthetical amounts are applicable to the variable interest entity included in the balance sheet line items.  As such these disclosures are tagged using the balance sheet line items used in the balance sheet and should use the _ConsolidatedEntitiesAxis_ and the member _VariableInterestEntityPrimaryBeneficiaryMember_<sup>[[1]](#ftn1)</sup>.  This member is used because the Primary Beneficiary member represents the value consolidated by the company. 
 
 Alternatively the company below has separately  reported cash, Investments and other assets specifically for the variable interest entity in the balance sheet with values of 82 and 1,286 and 46 in the column for the year 2017.  To ensure tagging consistency with the above example this amount should be tagged with the appropriate balance sheet line item and the ConsolidatedEntitiesAxis and the member _VariableInterestEntityPrimaryBeneficiaryMember_.  The value for $6,165 for cash and cash equivalents on row 1  cannot be tagged with the default value as it excludes the holdings of the variable interest entities.
 
-![alt_text](images/vie02.png "VIE 2")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/vie02.png?raw=true "VIE 2")
 
 For values which exclude the amount attributable to the VIE (for example 6,165) the filer should use the member  _ConsolidatedEntityExcludingVariableInterestEntitiesVIEMember on the ConsolidatedEntitiesAxis_ with the associated balance sheet line item.
 
@@ -31,7 +31,7 @@ When a company reports the total values for a group of variable interest entitie
 
 See example below:
 
-![alt_text](images/vie03.png "VIE 3")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/vie03.png?raw=true "VIE 3")
 
 All of the values in the table above will be tagged with the members _VariableInterestEntityPrimaryBeneficiaryMember_ and _ReportableLegalEntitiesMember._
 

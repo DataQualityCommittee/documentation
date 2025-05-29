@@ -156,7 +156,7 @@ _What happens when a company has a cross holding in 2 subsidiaries?_
 The ownership axis is from the perspective of the reporting entity.
 
 In the example below, the ownership of company B & C represents a cross holding. 
-![Example 1](images/leiconsolidations01.png?raw=true)
+![Example 1](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/leiconsolidations01.png?raw=true)
 
 To represent this in XBRL the links are represented in the instance document the values would be represented as follows:
 
@@ -208,11 +208,11 @@ The following table summarizes when an axis should be used:
 The example shows the financials for the parent company prior to consolidation. A consolidated group can have multiple holding companies depending on which level of consolidation is being referenced.
 
 In the example below the company should use the _ConsolidatedEntitiesAxis_ with the _ParentCompanyMember_. The _ParentCompanyMember_ should only be used on this axis. However given that this represents a consolidated amount the _ConsolidationItemsAxis_ also needs to be used with the _ReportableLegalEntitiesMember_ to indicate a pre-consolidation amount. The values should be tagged using the _ConsolidatedEntitiesAxis_ with the member _ParentCompanyMember_  (post consolidation amount) and the _ConsolidationItemsAxis_ with the member  _ReportableLegalEntitiesMember_ (pre consolidation amount).
-![Example 2](images/leiconsolidations02.png?raw=true)
+![Example 2](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/leiconsolidations02.png?raw=true)
 
 ### Condensed Consolidated Statements
 When reporting condensed consolidated statements, companies will break down consolidated numbers showing the Parent company, Guarantors and non guarantor Subsidiaries. (See figure  below) In these cases the entities values are reported pre consolidation and should therefore use the _ConsolidatedEntitiesAxis_ and _ConsolidationItemsAxis_ as defined above.
-![Example 3](images/leiconsolidations03.png?raw=true)
+![Example 3](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/leiconsolidations03.png?raw=true)
 
 The _ConsolidatedEntitiesAxis_ with the reportable entities member allows grouping of legal entities to be defined as single members such as subsidiaries and guarantors. The consolidated values should be the default value for the line item.
 
@@ -221,12 +221,12 @@ In this case, the pre-consolidation entities are tagged with the _ConsolidatedEn
 The following examples describe the financials of  "Verso Corporation" aka "Verso" and "Verso Paper Holdings LLC" aka  "Verso (Paper) Holdings". "Verso" is the ultimate parent, but the examples also show the consolidation of "Verso (Paper) Holdings".  
 
 The following figure shows the balance sheets for both "Verso" and "Verso Paper Holdings". "Verso" is the registrant reporting entity.  All the numbers reported for "Verso Paper Holdings" use the _ConsolidatedEntitiesAxis _and a member for Verso Paper Holdings (_VersoPaperHoldingsMember_) to distinguish the second column of values.
-![Example 4](images/leiconsolidations04.png?raw=true)
+![Example 4](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/leiconsolidations04.png?raw=true)
 
 Note that this data is the consolidated data for "Verso Paper Holdings" and as such only needs the legal entity dimension.  The figure below shows a further breakdown of "Verso Paper Holdings". The value of 900,941 for total Assets on the figure above is the same value representing the aggregate assets in the figure below.
 
 The consolidating schedule below represents the values for the consolidated entity of "Verso Paper Holdings".  All of the values in the disclosure will use the _LegalEntityAxis_ and the member _VersoPaperHoldingsMember_.  This disclosure shows values for the Parent Company but ParentCompanyMember cannot be used on the legal Entity axis as discussed earlier.
-![Example 5](images/leiconsolidations05.png?raw=true)
+![Example 5](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/leiconsolidations05.png?raw=true)
 
 To tag these balance sheet elements the _ConsolidatedEntitiesAxis_ should be used with the _ParentCompanyMember_ because it is a consolidating schedule which includes all the components of the aggregation. Just using this axis by itself represents the value post consolidation. To represent the elements pre-consolidation, the _ConsolidationItemsAxis_ and _ReportableLegalEntitiesMember_ should be added to the values. 
 
@@ -239,7 +239,7 @@ The value of the assets of the Parent of "Verso Paper Holdings" in the filing of
 In addition all the other members representing groups of companies such as for guarantor subsidiary, non-guarantor subsidiary, etc. would also appear on the _ConsolidatedEntitiesAxis_ with the dimension for _ConsolidationItemsAxis=ReportableLegalEntitiesMember_ and the _LegalEntityAxis=VersoPaperHoldingsMember_.
 
 The following diagram illustrates the tagging for reporting data for consolidated Financials for multiple parent companies.
-![Example 6](images/leiconsolidations06.png?raw=true)
+![Example 6](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/leiconsolidations06.png?raw=true)
 
 ## Notes
 <a name="#1"></a><sup>1</sup>:

@@ -13,13 +13,13 @@ This guidance only illustrates modeling for available-for-sale securities (not h
 
 ### Q1. In the case below where the breakdown of available securities has subtotals. What Axis should the company use to represent the subtotals of Amortized Cost?
 
-![alt_text](images/investments6.png "image_tooltip")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/investments6.png?raw=true "image_tooltip")
 
 In this case the values for the "Total obligations of states, municipalities and political subdivisions" should be tagged using the FinancialInstrumentAxis with a member to represent the subtotal. The member representing the subtotal should be nested with children of the members representing the financial instruments comprising that subtotal on the FinancialInstrumentAxis. This ensures that the values reported for the amortized cost will all use the axis FinancialInstrumentAxis and the concept AvailableForSaleDebtSecuritiesAmortizedCostBasis. Filers should not use the Investment Type Axis. The InvestmentTypeAxis is intended to be used when all investments are measured on the same basis such as for Investment Companies.  
 
 ### Q2. In the example below the company has reported cash as part of the investment schedule. Should the value of 849 be tagged with the **CashMember** on the FinancialInstrumentAxis or should it be tagged with the concept Cash?
 
-![alt_text](images/investments5.png "image_tooltip")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/investments5.png?raw=true "image_tooltip")
 
 The value of $849 for cash at amortized cost should be tagged with the element Cash for both values in the amortized cost column and the estimated fair value column. 
 
@@ -39,7 +39,7 @@ These values are disaggregated using the FinancialInstrumentAxis. The value of 5
 
 ### Q3. In the following disclosure the company has included the estimated value of equity securities in the table. What element should the values for Equity Securities be tagged with? 
 
-![alt_text](images/investments2.png "image_tooltip")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/investments2.png?raw=true "image_tooltip")
 
 The fair values of equity securities should be tagged with EquitySecuritiesFvNi and the Fair Value by Hierarchy axis. 
 
@@ -49,7 +49,7 @@ This should use the extension element CashAndCashEquivalentsAtCarryingValueAndAv
 
 ### Q5. The disclosure below relates to the disclosure in question 3 (excluding Cash and equity securities). What element should the values of 73,561 and 73,933 be tagged with?
 
-![alt_text](images/investments1.png "image_tooltip")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/investments1.png?raw=true "image_tooltip")
 
 The 73,561 should be tagged with AvailableForSaleDebtSecuritiesAmortizedCostBasis and the value of 73,933 should be tagged with AvailableForSaleSecuritiesDebtSecurities. 
 
@@ -63,7 +63,7 @@ If not otherwise stated use the element AvailableForSaleDebtSecuritiesAmortizedC
 
 ### Q7. In the following disclosure should the value of 117,966 be tagged with the DebtSecuritiesMember on the financial Instruments axis?
 
-![alt_text](images/investments4.png "image_tooltip")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/investments4.png?raw=true "image_tooltip")
 
 The value of 117,966 should be reported with no dimensions using the element AvailableForSaleDebtSecuritiesAmortizedCostBasis. All values on the line labeled Total debt investments should have no dimensions.
 
@@ -71,7 +71,7 @@ The value of 7,272 on the cash row in the figure above should be tagged using th
 
 ### Q8. What elements are used when the schedule is split between the current and non current portions shown in the example below.  
 
-![alt_text](images/investments3.png "image_tooltip")
+![alt_text](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/investments3.png?raw=true "image_tooltip")
 
 In this case the values excluding short term investments use the element DebtSecuritiesAvailableForSaleAmortizedCostNoncurrent. The value of short term investments should use the element DebtSecuritiesAvailableForSaleAmortizedCostCurrent with the FinancialInstrumentAxis.  Create custom extensions for the gains and losses as current and noncurrent. The following extension elements should be used:
   

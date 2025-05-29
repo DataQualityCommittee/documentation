@@ -56,7 +56,7 @@ In the following example the company breaks down revenue into the following cate
 
 In this example the non-ASC 606 revenue is one of the following:
 
-![Example 1](images/revrec00.png?raw=true)
+![Example 1](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/revrec00.png?raw=true)
 
 The filer would use Revenue from Contract with Customer and ProductOrServiceAxis with its members. To disaggregate the two ASC 606 revenues, use standard element(s) for leases or insurance premiums to tag non-ASC 606 revenue, then use Revenues for the total revenue on the income statement.
 
@@ -136,7 +136,7 @@ If an element used in a filing is contained in section 606000 of the Taxonomy, t
 
 ## Sub totals by Product
 In some cases, companies break down revenues by sub categories of product and include a total for the sub category. In the example below, the company has created a sub category for sales of vehicles and services.
-![Example 3](images/revrec03.png?raw=true)
+![Example 3](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/revrec03.png?raw=true)
 
 In this example the company has disclosed their revenue from contracts with customers by product line. The company has created subtotals for revenues from vehicles and services of 145,407 for the consolidated total of revenue from contracts with customers. Each of the product categories defined on the left (such as Used Vehicles) will appear as members on the ProductOrServiceAxis. When this axis is used the member defined for Revenue from vehicles must be a parent member of the following members:
 *  Vehicles, parts and accessories
@@ -152,7 +152,7 @@ This structure indicates that these revenue sources are a component of vehicles 
 The CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member is only intended to be used by filers who have adopted the revenue standard using the modified retrospective approach.  Typically, it will be used in a disclosure that shows the current period values as measured under previous guidance to the revenues measured under ASC 606.  
 
 Example:  
-![Example 4](images/revrec04.png?raw=true)
+![Example 4](https://github.com/DataQualityCommittee/documentation/blob/master/guidance/images/revrec04.png?raw=true)
 
 In the example above the member is used on the third column called "Proforma balance without the adoption of ASC 606". The second column would use the member "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member".
 
